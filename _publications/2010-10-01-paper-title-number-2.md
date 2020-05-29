@@ -2,7 +2,7 @@
 title: "Paper Title Number 2"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: "This paper is about the number 2. The number 3 is left for future work.<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.1111/eva.12280" data-hide-no-mentions="true" class="altmetric-embed"></div>"
 date: 2010-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
