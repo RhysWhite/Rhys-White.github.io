@@ -9,11 +9,24 @@ author_profile: true
 {% include base_path %}
 
   You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=5-qU7lkAAAAJ&hl=en) page
-  
+2020
+====
+
+2019
+====
+
+2018
+====
+
+2017
+====
+
+2016
+====
+
 2014
 =====
 **Philip T Leftwich**, Martha Koukidou, Polychronis Rempoulakis, Hong-Fei Gong, Antigoni Zacharopoulou, Guoliang Fu, Tracey Chapman, Aris Economopoulos, John Vontas, Luke Alphey. [Genetic elimination of field-cage populations of Mediterranean fruit flies](https://doi.org/10.1098/rspb.2014.1372). *Proceedings of the Royal Society B* 281 (1792), 20141372 
-
 <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1098/rspb.2014.1372" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 2012
