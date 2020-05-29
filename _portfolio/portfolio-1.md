@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1 <div data-badge-popover="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.1111/eva.12280" data-hide-no-mentions="true" class="altmetric-embed"></div>"   
+excerpt: "Short description of portfolio item number 1"   
 collection: portfolio
 
 ---
