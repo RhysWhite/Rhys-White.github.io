@@ -24,6 +24,8 @@ author_profile: true
 
 2016
 ====
+**PT Leftwich**, M Bolton, T Chapman. [Evolutionary biology and genetic techniques for insect control](https://doi.org/10.1111/eva.12280). *Evolutionary Applications* 9 (1), 212-230
+<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1111/eva.12280" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 2014
 =====
@@ -32,9 +34,7 @@ author_profile: true
 
 2012
 ======
-
 **PT Leftwich**, DA Edward, L Alphey, MJG Gage, T Chapman. [Variation in adult sex ratio alters the association between courtship, mating frequency and paternity in the lek‐forming fruitfly Ceratitis capitata](https://doi.org/10.1111/j.1420-9101.2012.02556.x). *Journal of Evolutionary Biology* 25 (9), 1732-1740 
-
 <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1111/eva.12280" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
