@@ -13,3 +13,5 @@ This paper is about the number 2. The number 3 is left for future work.
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+
+<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.1111/eva.12280" data-hide-no-mentions="true" class="altmetric-embed"></div>
