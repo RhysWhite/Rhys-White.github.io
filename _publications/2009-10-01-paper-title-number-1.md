@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Paper Title Number 1" <div data-badge-popover="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.1111/eva.12280" data-hide-no-mentions="true" class="altmetric-embed"></div>
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-altmetric: <div data-badge-popover="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.1111/eva.12280" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 
 ---
 This paper is about the number 1. The number 2 is left for future work.
