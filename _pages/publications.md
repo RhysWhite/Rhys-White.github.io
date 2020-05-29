@@ -25,7 +25,7 @@ author_profile: true
 2016
 ====
 **PT Leftwich**, M Bolton, T Chapman. [Evolutionary biology and genetic techniques for insect control](https://doi.org/10.1111/eva.12280). *Evolutionary Applications* 9 (1), 212-230
-<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1111/eva.12280" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1111/eva.12280" data-hide-no-mentions="true" class="altmetric-embed"></div> <span class="__dimensions_badge_embed__" data-pmid="27087849" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 2014
 =====
