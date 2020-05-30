@@ -19,6 +19,14 @@ author_profile: true
 2018
 ====
 
+
+
+**Philip T. Leftwich**, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. [Gut microbiomes and reproductive isolation in Drosophila](https://doi.org/10.1073/pnas.1708345114). *PNAS* 
+
+**Philip T. Leftwich**, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. [Reply to Rosenberg et al.: Diet, gut bacteria, and assortative mating in Drosophila melanogaster](https://www.pnas.org/content/115/10/E2154). *PNAS*
+
+**Philip T. Leftwich**, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. [Reply to Obadia et al.: Effect of methyl paraben on host–microbiota interactions in Drosophila melanogaster](https://www.pnas.org/content/115/20/E4549). *PNAS*
+
 2017
 ====
 **Philip T Leftwich**, William J Nash, Lucy A Friend, Tracey Chapman. [Adaptation to divergent larval diets in the medfly, *Ceratitis capitata*](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13113). *Evolution*
