@@ -32,11 +32,13 @@ KH Redford, TM Brooks, NBW Macfarlane, JS Adams, Luke Alphey, Elizabeth Bennet, 
 **Philip T. Leftwich** and Tracey Chapman[Testing for Assortative Mating by Diet in Drosophila melanogaster](https://bio-protocol.org/e3057). *Bio-Protocol*
 
 **Philip T. Leftwich**, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. [Gut microbiomes and reproductive isolation in Drosophila](https://doi.org/10.1073/pnas.1708345114). *PNAS* 
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1708345114" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.1708345114" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 **Philip T. Leftwich**, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. [Reply to Rosenberg et al.: Diet, gut bacteria, and assortative mating in Drosophila melanogaster](https://www.pnas.org/content/115/10/E2154). *PNAS*
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1721804115" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.1721804115" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 **Philip T. Leftwich**, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. [Reply to Obadia et al.: Effect of methyl paraben on host–microbiota interactions in Drosophila melanogaster](https://www.pnas.org/content/115/20/E4549). *PNAS*
-
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1805499115" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.1805499115" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 2017
 ====
