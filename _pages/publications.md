@@ -24,6 +24,7 @@ author_profile: true
 **Philip T Leftwich**, William J Nash, Lucy A Friend, Tracey Chapman. [Adaptation to divergent larval diets in the medfly, *Ceratitis capitata*](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13113). *Evolution*
 
 Ben Longdon, Jonathan P Day, Nora Schulz, **Philip T Leftwich**, Maaike A de Jong, Casper J Breuker, Melanie Gibbs, Darren J Obbard, Lena Wilfert, Sophia CL Smith, John E McGonigle, Thomas M Houslay, Lucy I Wright, Luca Livraghi, Luke C Evans, Lucy A Friend, Tracey Chapman, John Vontas, Natasa Kambouraki, Francis M Jiggins. [Vertically transmitted rhabdoviruses are found across three insect families and have dynamic interactions with their hosts](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2016.2381). *Proceedings of the Royal Society B*
+
 2016
 ====
 **PT Leftwich**, M Bolton, T Chapman. [Evolutionary biology and genetic techniques for insect control](https://doi.org/10.1111/eva.12280). *Evolutionary Applications* 
