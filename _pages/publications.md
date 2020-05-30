@@ -13,11 +13,19 @@ author_profile: true
 2020
 ====
 
+Michelle AE Anderson, Jessica Purcell, Sebald AN Verkuijl, Victoria C Norman, **Philip T Leftwich**, Tim Harvey-Samuel, Luke S Alphey. [Expanding the CRISPR Toolbox in Culicine Mosquitoes: In Vitro Validation of Pol III Promoters](https://pubs.acs.org/doi/abs/10.1021/acssynbio.9b00436). *ACS Synthetic Biology*
+
 2019
 ====
 
+KH Redford, TM Brooks, NBW Macfarlane, JS Adams, Luke Alphey, Elizabeth Bennet, Jason Delborne, Hilde Eggermont, Kevin Esvelt, Ann Kingirl, Adam Kokotovich, Bartomiej Kolodziejczyk, Todd Kuiken, Aroha Mead, Maria Oliva, Edward Perello, Lydia Slobodian, Delphine Thizy, Daniel Tompkins, Gerd Winter, Karl Campbell, Johanna Elsensohn, Nick Holmes, Chris Farmer, Bradford Keitt, **Philip Leftwich**, Tom Maloney, Daniel Masiga, Andrew Newhouse, Ben Novak, Ryan Phelan, William Powell, Louise Rollins-Smith, Madeline van Oppen. [Genetic frontiers for conservation : an assessment of synthetic biology and biodiversity conservation : technical assessment](https://portals.iucn.org/library/node/48408). *IUCN*
+
+**PT Leftwich**, WJ Nash, LA Friend, T Chapman. [Contribution of maternal effects to dietary selection in Mediterranean fruit flies](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13664). *Evolution*
+
 2018
 ====
+
+**Philip T Leftwich**, Matthew P Edgington, Tim Harvey-Samuel, Leonela Z Carabajal Paladino, Victoria C Norman, Luke Alphey[Recent advances in threshold-dependent gene drives for mosquitoes](https://portlandpress.com/biochemsoctrans/article/46/5/1203/67820/Recent-advances-in-threshold-dependent-gene-drives). *Biochemical Society Transactions*
 
 **Philip T. Leftwich**, Matt Hutchings, Tracey Chapman. [Diet, Gut Microbes and Host Mate Choice: Understanding the significance of microbiome effects on host mate choice requires a case by case evaluation](https://onlinelibrary.wiley.com/doi/abs/10.1002/bies.201800053@10.1002/(ISSN)1521-1878.microbiome). *Bio-Essays*
 
