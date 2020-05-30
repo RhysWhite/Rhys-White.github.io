@@ -28,13 +28,13 @@ KH Redford, TM Brooks, NBW Macfarlane, JS Adams, Luke Alphey, Elizabeth Bennet, 
 2018
 ====
 
-**Philip T Leftwich**, Matthew P Edgington, Tim Harvey-Samuel, Leonela Z Carabajal Paladino, Victoria C Norman, Luke Alphey[Recent advances in threshold-dependent gene drives for mosquitoes](https://portlandpress.com/biochemsoctrans/article/46/5/1203/67820/Recent-advances-in-threshold-dependent-gene-drives). *Biochemical Society Transactions*
+**Philip T Leftwich**, Matthew P Edgington, Tim Harvey-Samuel, Leonela Z Carabajal Paladino, Victoria C Norman, Luke Alphey. [Recent advances in threshold-dependent gene drives for mosquitoes](https://portlandpress.com/biochemsoctrans/article/46/5/1203/67820/Recent-advances-in-threshold-dependent-gene-drives). *Biochemical Society Transactions*
 <span class="__dimensions_badge_embed__" data-doi="10.1042/BST20180076" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1042/BST20180076" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 **Philip T. Leftwich**, Matt Hutchings, Tracey Chapman. [Diet, Gut Microbes and Host Mate Choice: Understanding the significance of microbiome effects on host mate choice requires a case by case evaluation](https://onlinelibrary.wiley.com/doi/abs/10.1002/bies.201800053@10.1002/(ISSN)1521-1878.microbiome). *Bio-Essays*
 <span class="__dimensions_badge_embed__" data-doi="10.1002/bies.201800053" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/bies.201800053" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-**Philip T. Leftwich** and Tracey Chapman[Testing for Assortative Mating by Diet in Drosophila melanogaster](https://bio-protocol.org/e3057). *Bio-Protocol*
+**Philip T. Leftwich** and Tracey Chapman. [Testing for Assortative Mating by Diet in Drosophila melanogaster](https://bio-protocol.org/e3057). *Bio-Protocol*
 <span class="__dimensions_badge_embed__" data-doi="10.21769/BioProtoc.3057" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.21769/BioProtoc.3057" data-hide-no-mentions="true" class="altmetric-embed"> </span>
   
 **Philip T. Leftwich**, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. [Gut microbiomes and reproductive isolation in Drosophila](https://doi.org/10.1073/pnas.1708345114). *PNAS* 
