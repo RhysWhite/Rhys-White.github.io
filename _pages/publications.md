@@ -37,11 +37,14 @@ KH Redford, TM Brooks, NBW Macfarlane, JS Adams, Luke Alphey, Elizabeth Bennet, 
 
 **Philip T. Leftwich**, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. [Reply to Obadia et al.: Effect of methyl paraben on host–microbiota interactions in Drosophila melanogaster](https://www.pnas.org/content/115/20/E4549). *PNAS*
 
+
 2017
 ====
 **Philip T Leftwich**, William J Nash, Lucy A Friend, Tracey Chapman. [Adaptation to divergent larval diets in the medfly, *Ceratitis capitata*](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13113). *Evolution*
+<span class="__dimensions_badge_embed__" data-doi="10.1111/evo.13113" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/evo.13113" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 Ben Longdon, Jonathan P Day, Nora Schulz, **Philip T Leftwich**, Maaike A de Jong, Casper J Breuker, Melanie Gibbs, Darren J Obbard, Lena Wilfert, Sophia CL Smith, John E McGonigle, Thomas M Houslay, Lucy I Wright, Luca Livraghi, Luke C Evans, Lucy A Friend, Tracey Chapman, John Vontas, Natasa Kambouraki, Francis M Jiggins. [Vertically transmitted rhabdoviruses are found across three insect families and have dynamic interactions with their hosts](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2016.2381). *Proceedings of the Royal Society B*
+<span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2016.2381" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rspb.2016.2381" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 2016
 ====
