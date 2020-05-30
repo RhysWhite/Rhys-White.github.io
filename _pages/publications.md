@@ -51,7 +51,7 @@ Ben Longdon, Jonathan P Day, Nora Schulz, **Philip T Leftwich**, Maaike A de Jon
 2014
 =====
 **Philip T Leftwich**, Martha Koukidou, Polychronis Rempoulakis, Hong-Fei Gong, Antigoni Zacharopoulou, Guoliang Fu, Tracey Chapman, Aris Economopoulos, John Vontas, Luke Alphey. [Genetic elimination of field-cage populations of Mediterranean fruit flies](https://doi.org/10.1098/rspb.2014.1372). *Proceedings of the Royal Society B*  
-<span data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1098/rspb.2014.1372" data-hide-no-mentions="true" class="altmetric-embed"> <span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2014.1372" data-style="small_circle" data-hide-zero-citations="true"> </span>
+ <span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2014.1372" data-style="small_circle" data-hide-zero-citations="true"><span data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1098/rspb.2014.1372" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 2012
 ======
