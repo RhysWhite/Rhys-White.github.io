@@ -9,51 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
+You can find a full copy of my CV here 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Zoology, Durham University, 2008
+* Ph.D CASE award with Oxitec Ltd, University of East Anglia, 2013
 
-Work experience
+Career
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Lecturer in Biological Sciences, 2019 - *present*. University of East Anglia
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral Researcher/ Project Manager, 2016-2019
+  * Pirbright Institute
+  * Team leader on 'Developing methods for driving beneficial genetic traits into vector populations'
+  * Supervisor: Professor Luke Alphey
+  * Wellcome Trust funded research grant
   
-Skills
+* Teaching position, 2015-2016
+  * University of East Anglia
+  * Module organiser for 'Biodiversity'
+  
+* Postdoctoral Researcher/ Researcher Co-I, 2012-2015
+  * 'Colonisation, Domestication and Population control in pest insects'
+  * University of East Anglia
+  * Supervisor: Professor Tracey Chapman
+  * BBSRC funded research grant
+  
+Grants
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* £1000 Entomology Program Enhancement Fund – Entomological Society of America, 2018
+* £460 Infravec Travel Grant, 2018
+* £376,000  Researcher Co-I on successful BBSRC Post-doctoral grant application, 2012
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
