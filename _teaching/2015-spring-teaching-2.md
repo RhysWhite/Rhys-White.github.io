@@ -1,14 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Maths Skills for A-level Biology"
 collection: teaching
-type: "Workshop"
+type: "Book"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+excerpt: <br/><img src='/files/maths skills for a-level biology.jpg'>
+date: Sept 2018
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The maths needed to succeed in A Level Science is harder now than ever before. Suitable for all awarding bodies, this practical handbook addresses all of the maths skills needed for A Level Biology specifications. Worked examples, practice questions, 'remember points' and 'stretch yourself' questions give students the key knowledge and then the opportunity to practise and build confidence.
+
+
 
 Heading 1
 ======
