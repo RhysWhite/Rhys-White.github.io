@@ -13,7 +13,7 @@ author_profile: true
 2020
 ====
 
-**Philip T. Leftwich**, Lewis G Spurgin, Tim Harvey-Samuel, Callum Thomas, Leonela Carabajal Paladino, Matthew P. Edgington and Luke S Alphey. Genetic pest management and the background genetics of release strains. *Philosophical Transactions of the Royal Society B.* (In Press)
+**Philip T Leftwich**, Lewis G Spurgin, Tim Harvey-Samuel, Callum Thomas, Leonela Carabajal Paladino, Matthew P. Edgington and Luke S Alphey. Genetic pest management and the background genetics of release strains. *Philosophical Transactions of the Royal Society B.* (In Press)
 
 Michelle AE Anderson, Jessica Purcell, Sebald AN Verkuijl, Victoria C Norman, **Philip T Leftwich**, Tim Harvey-Samuel, Luke S Alphey. [Expanding the CRISPR Toolbox in Culicine Mosquitoes: In Vitro Validation of Pol III Promoters](https://pubs.acs.org/doi/abs/10.1021/acssynbio.9b00436). *ACS Synthetic Biology*
 <span class="__dimensions_badge_embed__" data-doi="10.1021/acssynbio.9b00436" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1021/acssynbio.9b00436" data-hide-no-mentions="true" class="altmetric-embed"> </span>
@@ -30,30 +30,30 @@ KH Redford, TM Brooks, NBW Macfarlane, JS Adams, Luke Alphey, Elizabeth Bennet, 
 2018
 ====
 
-**Philip T. Leftwich**, Matthew P Edgington, Tim Harvey-Samuel, Leonela Z Carabajal Paladino, Victoria C Norman, Luke Alphey. [Recent advances in threshold-dependent gene drives for mosquitoes](https://portlandpress.com/biochemsoctrans/article/46/5/1203/67820/Recent-advances-in-threshold-dependent-gene-drives). *Biochemical Society Transactions*
+**Philip T Leftwich**, Matthew P Edgington, Tim Harvey-Samuel, Leonela Z Carabajal Paladino, Victoria C Norman, Luke Alphey. [Recent advances in threshold-dependent gene drives for mosquitoes](https://portlandpress.com/biochemsoctrans/article/46/5/1203/67820/Recent-advances-in-threshold-dependent-gene-drives). *Biochemical Society Transactions*
 <span class="__dimensions_badge_embed__" data-doi="10.1042/BST20180076" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1042/BST20180076" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-**Philip T. Leftwich**, Matt Hutchings, Tracey Chapman. [Diet, Gut Microbes and Host Mate Choice: Understanding the significance of microbiome effects on host mate choice requires a case by case evaluation](https://onlinelibrary.wiley.com/doi/abs/10.1002/bies.201800053@10.1002/(ISSN)1521-1878.microbiome). *Bio-Essays*
+**Philip T Leftwich**, Matt Hutchings, Tracey Chapman. [Diet, Gut Microbes and Host Mate Choice: Understanding the significance of microbiome effects on host mate choice requires a case by case evaluation](https://onlinelibrary.wiley.com/doi/abs/10.1002/bies.201800053@10.1002/(ISSN)1521-1878.microbiome). *Bio-Essays*
 <span class="__dimensions_badge_embed__" data-doi="10.1002/bies.201800053" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/bies.201800053" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-**Philip T. Leftwich** and Tracey Chapman. [Testing for Assortative Mating by Diet in Drosophila melanogaster](https://bio-protocol.org/e3057). *Bio-Protocol*
+**Philip T Leftwich** and Tracey Chapman. [Testing for Assortative Mating by Diet in Drosophila melanogaster](https://bio-protocol.org/e3057). *Bio-Protocol*
 <span class="__dimensions_badge_embed__" data-doi="10.21769/BioProtoc.3057" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.21769/BioProtoc.3057" data-hide-no-mentions="true" class="altmetric-embed"> </span>
   
-**Philip T. Leftwich**, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. [Gut microbiomes and reproductive isolation in Drosophila](https://doi.org/10.1073/pnas.1708345114). *PNAS* 
+**Philip T Leftwich**, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. [Gut microbiomes and reproductive isolation in Drosophila](https://doi.org/10.1073/pnas.1708345114). *PNAS* 
 <span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1708345114" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.1708345114" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-**Philip T. Leftwich**, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. [Reply to Rosenberg et al.: Diet, gut bacteria, and assortative mating in Drosophila melanogaster](https://www.pnas.org/content/115/10/E2154). *PNAS*
+**Philip T Leftwich**, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. [Reply to Rosenberg et al.: Diet, gut bacteria, and assortative mating in Drosophila melanogaster](https://www.pnas.org/content/115/10/E2154). *PNAS*
 <span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1721804115" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.1721804115" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-**Philip T. Leftwich**, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. [Reply to Obadia et al.: Effect of methyl paraben on host–microbiota interactions in Drosophila melanogaster](https://www.pnas.org/content/115/20/E4549). *PNAS*
+**Philip T Leftwich**, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. [Reply to Obadia et al.: Effect of methyl paraben on host–microbiota interactions in Drosophila melanogaster](https://www.pnas.org/content/115/20/E4549). *PNAS*
 <span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1805499115" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.1805499115" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 2017
 ====
-**Philip T. Leftwich**, William J Nash, Lucy A Friend, Tracey Chapman. [Adaptation to divergent larval diets in the medfly, *Ceratitis capitata*](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13113). *Evolution*
+**Philip T Leftwich**, William J Nash, Lucy A Friend, Tracey Chapman. [Adaptation to divergent larval diets in the medfly, *Ceratitis capitata*](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13113). *Evolution*
 <span class="__dimensions_badge_embed__" data-doi="10.1111/evo.13113" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/evo.13113" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-Ben Longdon, Jonathan P Day, Nora Schulz, **Philip T. Leftwich**, Maaike A de Jong, Casper J Breuker, Melanie Gibbs, Darren J Obbard, Lena Wilfert, Sophia CL Smith, John E McGonigle, Thomas M Houslay, Lucy I Wright, Luca Livraghi, Luke C Evans, Lucy A Friend, Tracey Chapman, John Vontas, Natasa Kambouraki, Francis M Jiggins. [Vertically transmitted rhabdoviruses are found across three insect families and have dynamic interactions with their hosts](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2016.2381). *Proceedings of the Royal Society B*
+Ben Longdon, Jonathan P Day, Nora Schulz, **Philip T Leftwich**, Maaike A de Jong, Casper J Breuker, Melanie Gibbs, Darren J Obbard, Lena Wilfert, Sophia CL Smith, John E McGonigle, Thomas M Houslay, Lucy I Wright, Luca Livraghi, Luke C Evans, Lucy A Friend, Tracey Chapman, John Vontas, Natasa Kambouraki, Francis M Jiggins. [Vertically transmitted rhabdoviruses are found across three insect families and have dynamic interactions with their hosts](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2016.2381). *Proceedings of the Royal Society B*
 <span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2016.2381" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rspb.2016.2381" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 2016
@@ -63,7 +63,7 @@ Ben Longdon, Jonathan P Day, Nora Schulz, **Philip T. Leftwich**, Maaike A de Jo
 
 2014
 =====
-**Philip T. Leftwich**, Martha Koukidou, Polychronis Rempoulakis, Hong-Fei Gong, Antigoni Zacharopoulou, Guoliang Fu, Tracey Chapman, Aris Economopoulos, John Vontas, Luke Alphey. [Genetic elimination of field-cage populations of Mediterranean fruit flies](https://doi.org/10.1098/rspb.2014.1372). *Proceedings of the Royal Society B*  
+**Philip T Leftwich**, Martha Koukidou, Polychronis Rempoulakis, Hong-Fei Gong, Antigoni Zacharopoulou, Guoliang Fu, Tracey Chapman, Aris Economopoulos, John Vontas, Luke Alphey. [Genetic elimination of field-cage populations of Mediterranean fruit flies](https://doi.org/10.1098/rspb.2014.1372). *Proceedings of the Royal Society B*  
  <span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2014.1372" data-style="small_circle" data-hide-zero-citations="true"><span data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1098/rspb.2014.1372" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 2012
