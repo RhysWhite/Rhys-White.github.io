@@ -2,8 +2,7 @@
 title: "Maths Skills for A-level Biology"
 collection: teaching
 type: "Book"
-permalink: /teaching/2015-spring-teaching-1
-excerpt: <br/><img src='/files/maths skills for a-level biology.jpg'>
+permalink: /teaching/maths-skills-for-a-level-biology
 date: Sept 2018
 
 ---
