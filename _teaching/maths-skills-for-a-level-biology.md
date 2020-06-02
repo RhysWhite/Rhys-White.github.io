@@ -16,8 +16,10 @@ Online copy
 ======
 During the Covid-19 school closures, this book, along with many in the OUP collection has been made free to view online [here](https://en.calameo.com/read/0007777215eb633228e4a?authid=PxULnYR8lBAq). *Please e-mail me if this link stops working* 
 
-Worked answers
+Hard copy
 ======
+This book can be purchase from all major retailers - including direct from [OUP](https://global.oup.com/education/product/9780198428992/?region=uk) 
 
 Heading 3
 ======
+Worked answers for this book are available online through the OUP website, or can be downloaded directly [here](http://Philip-leftwich.github.io/files/842899_maths_skills_AL_bio_answers.pdf)
