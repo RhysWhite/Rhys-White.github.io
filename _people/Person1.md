@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1"   
+title: "Person 1"
+excerpt: "Short bio"   
 collection: people
 
 ---
