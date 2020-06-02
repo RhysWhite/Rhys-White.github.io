@@ -12,10 +12,11 @@ The maths needed to succeed in A Level Science is harder now than ever before. S
 
 
 
-Heading 1
+Online copy
 ======
+During the Covid-19 school closures, this book, along with many in the OUP collection has been made free to view online [here](https://en.calameo.com/read/0007777215eb633228e4a?authid=PxULnYR8lBAq). *Please e-mail me if this link stops working* 
 
-Heading 2
+Worked answers
 ======
 
 Heading 3
