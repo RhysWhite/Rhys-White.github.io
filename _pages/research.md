@@ -12,4 +12,4 @@ Summaries of my previous work in medfly can be read [here](https://www.vice.com/
 
 
 ### **Gut microbes and behaviour**
-I also work to investigate the effects of gut microbes on mate choice in fruitflies (*Drosophila* and medfly) and explore these effects in terms of the evolutionary associations between hosts and their symbionts.<br/><img src='/images/transmission_V3.png'>
+<img src='/images/transmission_V3.png'class="align-right" alt="" vertical-align: middle> I also work to investigate the effects of gut microbes on mate choice in fruitflies (*Drosophila* and medfly) and explore these effects in terms of the evolutionary associations between hosts and their symbionts.
