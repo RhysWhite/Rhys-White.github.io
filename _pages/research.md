@@ -5,9 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### **Genetic Pest Management**
-
-<br/><img src='/images/13990891822229_medfly_1.png'>
+### **Genetic Pest Management**<br/><img src='/images/13990891822229_medfly_1.png'>
 
  My research is based in the emerging field of genetic pest management, focusing particularly on the agricultural pests *Ceratitis capitata* (medfly), and vector arthropods such as the mosquito *Aedes aegypti*. 
 
@@ -15,6 +13,4 @@ Summaries of my previous work in medfly can be read [here](https://www.vice.com/
 
 
 ### **Gut microbes and behaviour**
-I also work to investigate the effects of gut microbes on mate choice in fruitflies (*Drosophila* and medfly) and explore these effects in terms of the evolutionary associations between hosts and their symbionts.
-
-<br/><img src='/images/transmission_V2.png'>
+I also work to investigate the effects of gut microbes on mate choice in fruitflies (*Drosophila* and medfly) and explore these effects in terms of the evolutionary associations between hosts and their symbionts.<br/><img src='/images/transmission_V2.png'>
