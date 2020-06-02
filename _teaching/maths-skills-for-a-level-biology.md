@@ -20,6 +20,6 @@ Hard copy
 ======
 This book can be purchase from all major retailers - including direct from [OUP](https://global.oup.com/education/product/9780198428992/?region=uk) 
 
-Heading 3
+Worked answers booklet
 ======
 Worked answers for this book are available online through the OUP website, or can be downloaded directly [here](http://Philip-leftwich.github.io/files/842899_maths_skills_AL_bio_answers.pdf)
