@@ -19,9 +19,9 @@ Education
 Career
 ======
 * Lecturer in Biological Sciences, 2019 - *present*. University of East Anglia
-  * Module organiser 5009A - Genetics
-  * Module organiser 5023Y - Data Science
-  * Lecturer - Science communication, Microbiology, Genomics, Skills for Biologists & Field Ecology 
+  * Module organiser 5009A: Genetics
+  * Module organiser 5023Y: Data Science
+  * Lecturer: Science communication, Microbiology, Genomics, Skills for Biologists & Field Ecology 
 
 * Postdoctoral Researcher/ Project Manager, 2016-2019
   * Pirbright Institute
