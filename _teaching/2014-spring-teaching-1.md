@@ -1,7 +1,7 @@
 ---
 title: "Bioinformatics Virtual Coordination Network"
 collection: teaching
-type: "Undergraduate course"
+type: "Online course"
 permalink: /teaching/2019-biovcnet
 venue: ""
 date: 2019-05-01
