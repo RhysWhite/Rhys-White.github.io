@@ -13,3 +13,6 @@ author_profile: true
 
 Collaborators
 ======
+[Professor Tracey Chapman](https://www.traceychapmanresearch.com/)
+
+[Professor Luke Alphey](https://www.pirbright.ac.uk/users/prof-luke-alphey)
