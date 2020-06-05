@@ -16,6 +16,10 @@ Currently based at the [University of East Anglia](https://people.uea.ac.uk/p_le
 
 Here you can find information on my research, current projects, and find details about teaching and outreach projects.
 
-
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@philipleftwich" />
+        <meta name="twitter:title" content="Philip Leftwich" />
+        <meta name="twitter:description" content="Academic website for Philip Leftwich PhD" />
+        <meta name="twitter:image" content="https://philip-leftwich.github.io/images/leftwichsmall.jpg" />
 
 
