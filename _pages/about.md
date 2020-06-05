@@ -14,4 +14,4 @@ Currently based at the [University of East Anglia](https://people.uea.ac.uk/p_le
 
 Here you can find information on my research, current projects, and find details about teaching and outreach projects.
 
-<span img src='/images/UEA.jpg'> </span>
+<img src='/images/UEA.jpg'>
