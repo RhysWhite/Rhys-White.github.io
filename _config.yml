@@ -320,3 +320,10 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@philipleftwich" />
+<meta name="twitter:title" content="Philip Leftwich " />
+<meta name="twitter:description" content="Academic website for Philip Leftwich PhD" />
+<meta name="twitter:image" content="leftwichsmall.jpg" />
