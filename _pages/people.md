@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.people %}
-  {% include archive-single.html %}
-{% endfor %}
+### Alex Siddall (BBSRC-funded PhD student, 2019-present)
+Alex is using transgenics and CRISPR to study the sex determination system in medfly. She is developing novel technologies to suppress these pest insect populations with CRISPR mediated population suppression systems. See Alex on [Twitter](https://twitter.com/alex_siddall) 
+
 
 Collaborators
 ======
