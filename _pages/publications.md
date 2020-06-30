@@ -15,7 +15,7 @@ author_profile: true
 
 **Philip T Leftwich**, Lewis G Spurgin, Tim Harvey-Samuel, Callum Thomas, Leonela Carabajal Paladino, Matthew P. Edgington and Luke S Alphey. Genetic pest management and the background genetics of release strains. *Philosophical Transactions of the Royal Society B.* (In Press)
 
-Priscilla Y. L. Tng, Leonela Carabajal Paladino, Sebald Verkuijl, Jessica Purcell, **Philip T. Leftwich**, Rennos Fragkoudis, Rob Noad, Luke Alphey (In Review) Cas13b-dependent and -independent RNA knockdown of viral sequences in mosquito cells following guide RNA expression. *Communications Biology*. (In Press)
+Priscilla Y. L. Tng, Leonela Carabajal Paladino, Sebald Verkuijl, Jessica Purcell, **Philip T Leftwich**, Rennos Fragkoudis, Rob Noad, Luke Alphey (In Review) Cas13b-dependent and -independent RNA knockdown of viral sequences in mosquito cells following guide RNA expression. *Communications Biology*. (In Press)
 
 Michelle AE Anderson, Jessica Purcell, Sebald AN Verkuijl, Victoria C Norman, **Philip T Leftwich**, Tim Harvey-Samuel, Luke S Alphey. [Expanding the CRISPR Toolbox in Culicine Mosquitoes: In Vitro Validation of Pol III Promoters](https://pubs.acs.org/doi/abs/10.1021/acssynbio.9b00436). *ACS Synthetic Biology*
 <span class="__dimensions_badge_embed__" data-doi="10.1021/acssynbio.9b00436" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1021/acssynbio.9b00436" data-hide-no-mentions="true" class="altmetric-embed"> </span>
