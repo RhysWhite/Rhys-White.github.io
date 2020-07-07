@@ -1,10 +1,24 @@
 ---
-title: "Person 1"
+title: "Alex Sidall"
 excerpt: "Short bio"   
 collection: people
 
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Alex is using trangenics and CRISPR to study and manipulate the sex determination system in medfly. She is also developing novel technologies to suppress these pest insect populations, such as CRISPR-mediated gene drives. See Alex on [Twitter](https://twitter.com/alex_siddall) 
+
+
+Previous labs:
+
+&emsp; Okinawa Institute of Science and Technology 
+[Genomics and Regulatory Systems Unit](https://groups.oist.jp/grsu) 
+ – Constructing gene drives in Saccharomyces cerevisiae
+
+&emsp; The University of Huddersfield
+[Bryk Lab](https://bryklab.net/) -  Building teaching resources for synthetic biology 
+                          
+&emsp; Institute of Genetics and Molecular Medicine at the University of Edinburgh 
+[RNA Synthetic Biology Group](https://www.ed.ac.uk/mrc-human-genetics-unit/research/kudla-group) 
+ – The effect of extrinsic splice enhancers on transgene expression in human cell lines 
 
 
