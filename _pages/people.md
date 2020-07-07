@@ -6,9 +6,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
 ---
 
 ### Alex Siddall (BBSRC-funded PhD student, 2019-present)
