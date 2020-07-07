@@ -1,5 +1,5 @@
 ---
-title: "Alex Sidall"
+title: "Alex Siddall"
 excerpt: "Short bio"   
 collection: people
 
