@@ -15,6 +15,7 @@ Education
 ======
 * B.Sc. in Zoology, Durham University, 2008
 * Ph.D CASE award with Oxitec Ltd, University of East Anglia, 2013
+* Fellow of the Higher Education Academy (FHEA), 2016
 
 Career
 ======
