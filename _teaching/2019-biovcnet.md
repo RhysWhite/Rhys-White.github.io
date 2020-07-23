@@ -1,12 +1,10 @@
 ---
 title: "Bioinformatics Virtual Coordination Network"
+excerpt: "Many research laboratories shut down due to concerns about the COVID-19 pandemic."
 collection: teaching
-type: "Bionformatics training course"
-permalink: /teaching/2019-biovcnet
-venue: "Online"
-date: 2019-05-01
-location: ""
+
 ---
+
 
 <img src='/images/biovcnet_LOGO.png' align="left" img style="padding-right: 50px" width="100" height="150">  
 Instructor for [Bioinformatics Virtual Coordination Network](https://biovcnet.github.io/_pages/people/) 
