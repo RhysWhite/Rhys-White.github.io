@@ -4,7 +4,7 @@ collection: teaching
 type: "Webinar"
 permalink: /teaching/Dry Labs-Real Science
 venue: "Online"
-date: 2019-07-01
+date: 2020-07-01
 location: ""
 ---
 
