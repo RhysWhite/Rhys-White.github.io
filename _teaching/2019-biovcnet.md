@@ -18,12 +18,9 @@ Many research laboratories shut down due to concerns about the COVID-19 pandemic
 <br><br>
 
 
-Heading 1
+YouTube channel
 ======
 
+A channel containing all the lessons to-date is available [here](https://www.youtube.com/channel/UC5qVqcvUPfgPQWOhBaR_Low)
 
-Heading 2
-======
 
-Heading 3
-======
