@@ -13,6 +13,6 @@ location: ""
 [#DryLabsRealScience](https://lecturemotely.com) has been meeting twice a month to discuss the challenges of lab provision in the face of COVID-19. 
 Sharing good practice, experiences and tips around an alternative to lab provisions and research projects.
 
-A video of my talk "Online Molecular Biology Labs" is available [here](https://www.youtube.com/watch?v=6qFndsBn3hY&feature=youtu.be) along with a brief [How-to-guide](Philip-Leftwich.github.io/files/How_to_use_Benchling.pdf).
+A video of my talk "Online Molecular Biology Labs" is available [here](https://www.youtube.com/watch?v=6qFndsBn3hY&feature=youtu.be) along with a brief [How-to-guide](https://github.com/Philip-Leftwich/Philip-Leftwich.github.io/blob/master/files/How_to_use_Benchling.pdf).
 
 Please contact me for more information. 
