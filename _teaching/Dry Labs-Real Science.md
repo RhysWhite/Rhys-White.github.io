@@ -1,10 +1,10 @@
 ---
-title: "Bioinformatics Virtual Coordination Network"
+title: "Dry Labs Real Science"
 collection: teaching
-type: "Bionformatics training course"
-permalink: /teaching/2019-biovcnet
+type: "Webinar"
+permalink: /teaching/Dry Labs-Real Science
 venue: "Online"
-date: 2019-05-01
+date: 2019-07-01
 location: ""
 ---
 
