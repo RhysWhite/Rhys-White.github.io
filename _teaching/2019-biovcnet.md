@@ -4,7 +4,7 @@ collection: teaching
 type: "Bionformatics training course"
 permalink: /teaching/2019-biovcnet
 venue: "Online"
-date: 2019-05-01
+date: 2020-04-01
 location: ""
 
 ---
