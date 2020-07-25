@@ -10,12 +10,17 @@ author_profile: true
 
   You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=5-qU7lkAAAAJ&hl=en) page
   
+Preprint
+====
+&emsp; **Philip T Leftwich**, Matthew Edgington, Tracey Chapman. [Transmission efficiency drives host-microbe associations](https://www.biorxiv.org/content/10.1101/2020.07.23.216366v1.full.pdf+html). *Bioxrkiv* 
+<span class="__dimensions_badge_embed__" data-doi="10.1101/2020.07.23.216366" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2020.07.23.216366" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+  
 2020
 ====
 
-&emsp; **Philip T Leftwich**, Lewis G Spurgin, Tim Harvey-Samuel, Callum Thomas, Leonela Carabajal Paladino, Matthew P. Edgington and Luke S Alphey. Genetic pest management and the background genetics of release strains. *Philosophical Transactions of the Royal Society B.* (In Press)
+&emsp; **Philip T Leftwich**, Lewis G Spurgin, Tim Harvey-Samuel, Callum Thomas, Leonela Carabajal Paladino, Matthew P. Edgington, Luke S Alphey. Genetic pest management and the background genetics of release strains. *Philosophical Transactions of the Royal Society B* (In Press)
 
-&emsp; Priscilla Y. L. Tng, Leonela Carabajal Paladino, Sebald Verkuijl, Jessica Purcell, **Philip T Leftwich**, Rennos Fragkoudis, Rob Noad, Luke Alphey. Cas13b-dependent and -independent RNA knockdown of viral sequences in mosquito cells following guide RNA expression. *Communications Biology*. (In Press)
+&emsp; Priscilla Y. L. Tng, Leonela Carabajal Paladino, Sebald Verkuijl, Jessica Purcell, **Philip T Leftwich**, Rennos Fragkoudis, Rob Noad, Luke Alphey. Cas13b-dependent and -independent RNA knockdown of viral sequences in mosquito cells following guide RNA expression. *Communications Biology* (In Press)
 
 &emsp; Michelle AE Anderson, Jessica Purcell, Sebald AN Verkuijl, Victoria C Norman, **Philip T Leftwich**, Tim Harvey-Samuel, Luke S Alphey. [Expanding the CRISPR Toolbox in Culicine Mosquitoes: In Vitro Validation of Pol III Promoters](https://pubs.acs.org/doi/abs/10.1021/acssynbio.9b00436). *ACS Synthetic Biology*
 <span class="__dimensions_badge_embed__" data-doi="10.1021/acssynbio.9b00436" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1021/acssynbio.9b00436" data-hide-no-mentions="true" class="altmetric-embed"> </span>
