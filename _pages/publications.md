@@ -10,7 +10,7 @@ author_profile: true
 
   You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=5-qU7lkAAAAJ&hl=en) page
   
-Preprint
+preprint/submitted
 ====
 &emsp; **Philip T Leftwich**, Matthew Edgington, Tracey Chapman. [Transmission efficiency drives host-microbe associations](https://www.biorxiv.org/content/10.1101/2020.07.23.216366v1.full.pdf+html). *Bioxrkiv* 
 <span class="__dimensions_badge_embed__" data-doi="10.1101/2020.07.23.216366" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2020.07.23.216366" data-hide-no-mentions="true" class="altmetric-embed"> </span>
