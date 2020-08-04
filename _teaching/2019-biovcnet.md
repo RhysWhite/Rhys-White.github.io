@@ -1,4 +1,5 @@
 ---
+
 title: "Bioinformatics Virtual Coordination Network"
 collection: teaching
 type: "Bioinformatics training course"
