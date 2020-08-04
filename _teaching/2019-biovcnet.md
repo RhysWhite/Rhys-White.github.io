@@ -4,7 +4,6 @@ collection: teaching
 type: "Bioinformatics training course"
 permalink: /teaching/2019-biovcnet
 venue: "Online"
-date: 
 location: ""
 
 ---
