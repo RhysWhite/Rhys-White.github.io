@@ -1,10 +1,10 @@
 ---
-
 title: "Bioinformatics Virtual Coordination Network"
 collection: teaching
 type: "Bioinformatics training course"
 permalink: /teaching/2019-biovcnet
 venue: "Online"
+date: 2019-01-01
 location: ""
 
 ---
