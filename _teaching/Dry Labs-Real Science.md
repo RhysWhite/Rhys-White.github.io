@@ -8,7 +8,7 @@ date: 2020-07-01
 location: ""
 ---
 
-<img src='/images/lab science.png' align="top">  
+<img src='/images/lab science.png' align="top" width="1150" height="225">  
 
 [#DryLabsRealScience](https://lecturemotely.com) has been meeting twice a month to discuss the challenges of lab provision in the face of COVID-19. 
 Sharing good practice, experiences and tips around an alternative to lab provisions and research projects.
