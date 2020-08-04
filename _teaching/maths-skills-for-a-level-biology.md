@@ -4,7 +4,7 @@ collection: teaching
 type: "Book"
 permalink: /teaching/maths-skills-for-a-level-biology
 venue: "OUP"
-date: 2018-09-01
+date: 2019-09-01
 location: "Oxford"
 ---
 
