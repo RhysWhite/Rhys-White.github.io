@@ -10,15 +10,14 @@ author_profile: true
 
   You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=5-qU7lkAAAAJ&hl=en) page
   
-preprint/submitted
-====
-&emsp; **Philip T Leftwich**, Matthew Edgington, Tracey Chapman. [Transmission efficiency drives host-microbe associations](https://www.biorxiv.org/content/10.1101/2020.07.23.216366v1.full.pdf+html). *Bioxrkiv* (Accepted in: *Proceedings of the Royal Society B*)
-<span class="__dimensions_badge_embed__" data-doi="10.1101/2020.07.23.216366" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2020.07.23.216366" data-hide-no-mentions="true" class="altmetric-embed"> </span>
   
 2020
 ====
 
 &emsp; **Philip T Leftwich**, Lewis G Spurgin, Tim Harvey-Samuel, Callum Thomas, Leonela Carabajal Paladino, Matthew P. Edgington, Luke S Alphey. Genetic pest management and the background genetics of release strains. *Philosophical Transactions of the Royal Society B* (In Press)
+
+&emsp; **Philip T Leftwich**, Matthew Edgington, Tracey Chapman. [Transmission efficiency drives host-microbe associations](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.0820). *Proceedings of the Royal Society B*
+<span class="__dimensions_badge_embed__" data-doi="10.1101/2020.07.23.216366" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2020.07.23.216366" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 &emsp; Priscilla Y. L. Tng, Leonela Carabajal Paladino, Sebald Verkuijl, Jessica Purcell, **Philip T Leftwich**, Rennos Fragkoudis, Rob Noad, Luke Alphey. [Cas13b-dependent and -independent RNA knockdown of viral sequences in mosquito cells following guide RNA expression](https://www.nature.com/articles/s42003-020-01142-6). *Communications Biology* 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s42003-020-01142-6" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s42003-020-01142-6" data-hide-no-mentions="true" class="altmetric-embed"> </span>
