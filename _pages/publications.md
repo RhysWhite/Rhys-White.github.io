@@ -21,7 +21,7 @@ expression of the invertebrate-specific scorpion toxin AaHIT reduces adult longe
 
 &emsp; **Philip T Leftwich**, Lewis G Spurgin, Tim Harvey-Samuel, Callum Thomas, Leonela Carabajal Paladino, Matthew P. Edgington, Luke S Alphey. [Genetic pest management and the background genetics of release strains]( 
 https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0805). *Philosophical Transactions of the Royal Society B*
-<span class="__dimensions_badge_embed__" data-doi="doi/10.1098/rstb.2019.0805" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="doi/10.1098/rstb.2019.0805 " data-hide-no-mentions="true" class="altmetric-embed"> </span>
+<span class="__dimensions_badge_embed__" data-doi="doi/10.1098/rstb.2019.0805" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rstb.2019.0805 " data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 &emsp; **Philip T Leftwich**, Matthew Edgington, Tracey Chapman. [Transmission efficiency drives host-microbe associations](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.0820). *Proceedings of the Royal Society B*
 <span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2020.0820" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rspb.2020.0820" data-hide-no-mentions="true" class="altmetric-embed"> </span>
