@@ -3,7 +3,7 @@ title: "Benchling for Education"
 collection: teaching
 type: "Online"
 permalink: /teaching/Benchling-for-Education
-venue: "Online"
+venue: "Benchling"
 date: 2021-01-22
 location: ""
 ---
