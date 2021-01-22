@@ -1,9 +1,9 @@
 ---
 title: "Benchling for Education"
 collection: teaching
-type: "Online"
+type: "Worksheets"
 permalink: /teaching/Benchling-for-Education
-venue: "Benchling"
+venue: "Online"
 date: 2021-01-22
 location: ""
 ---
