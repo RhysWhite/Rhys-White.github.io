@@ -10,23 +10,24 @@ author_profile: true
 
   You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=5-qU7lkAAAAJ&hl=en) page
   
-preprint
+2021
 ====
-&emsp; Harvey-Samuel TD, Xu X, Lovett E, Dafa’alla T, Walker A, Norman VC,Carter R, Teal J, Akilan L, **Leftwich PT** and Alphey, L. [Engineered
-expression of the invertebrate-specific scorpion toxin AaHIT reduces adult longevity and female fecundity in the diamondback moth Plutella xylostella](https://www.biorxiv.org/content/10.1101/2020.09.10.291187v2). *bioRxkiv*
+
+&emsp; Harvey-Samuel TD, Xu X, Lovett E, Dafa’alla T, Walker A, Norman VC,Carter R, Teal J, Akilan L, **Leftwich PT** Reitmayer CM, Siddiqui HA, Alphey, L [Engineered
+expression of the invertebrate-specific scorpion toxin AaHIT reduces adult longevity and female fecundity in the diamondback moth Plutella xylostella](https://www.biorxiv.org/content/10.1101/2020.09.10.291187v2). *Pest Management Science* In Press
 <span class="__dimensions_badge_embed__" data-doi="10.1101/2020.09.10.291187" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2020.09.10.291187" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-  
-2020
-====
 
 &emsp; **Philip T Leftwich**, Lewis G Spurgin, Tim Harvey-Samuel, Callum Thomas, Leonela Carabajal Paladino, Matthew P. Edgington, Luke S Alphey. [Genetic pest management and the background genetics of release strains]( 
 https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0805). *Philosophical Transactions of the Royal Society B*
 <span class="__dimensions_badge_embed__" data-doi="10.1098/rstb.2019.0805" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rstb.2019.0805 " data-hide-no-mentions="true" class="altmetric-embed"> </span>
+  
+2020
+====
 
 &emsp; **Philip T Leftwich**, Matthew Edgington, Tracey Chapman. [Transmission efficiency drives host-microbe associations](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.0820). *Proceedings of the Royal Society B*
 <span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2020.0820" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rspb.2020.0820" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-&emsp; Priscilla Y. L. Tng, Leonela Carabajal Paladino, Sebald Verkuijl, Jessica Purcell, **Philip T Leftwich**, Rennos Fragkoudis, Rob Noad, Luke Alphey. [Cas13b-dependent and -independent RNA knockdown of viral sequences in mosquito cells following guide RNA expression](https://www.nature.com/articles/s42003-020-01142-6). *Communications Biology* 
+&emsp; Priscilla YL Tng, Leonela Carabajal Paladino, Sebald Verkuijl, Jessica Purcell, **Philip T Leftwich**, Rennos Fragkoudis, Rob Noad, Luke Alphey. [Cas13b-dependent and -independent RNA knockdown of viral sequences in mosquito cells following guide RNA expression](https://www.nature.com/articles/s42003-020-01142-6). *Communications Biology* 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s42003-020-01142-6" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s42003-020-01142-6" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 &emsp; Michelle AE Anderson, Jessica Purcell, Sebald AN Verkuijl, Victoria C Norman, **Philip T Leftwich**, Tim Harvey-Samuel, Luke S Alphey. [Expanding the CRISPR Toolbox in Culicine Mosquitoes: In Vitro Validation of Pol III Promoters](https://pubs.acs.org/doi/abs/10.1021/acssynbio.9b00436). *ACS Synthetic Biology*
