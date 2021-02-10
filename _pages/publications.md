@@ -13,8 +13,8 @@ author_profile: true
 2021
 ====
 
-&emsp; Harvey-Samuel TD, Xu X, Lovett E, Dafa’alla T, Walker A, Norman VC,Carter R, Teal J, Akilan L, **Leftwich PT** Reitmayer CM, Siddiqui HA, Alphey, L [Engineered
-expression of the invertebrate-specific scorpion toxin AaHIT reduces adult longevity and female fecundity in the diamondback moth Plutella xylostella](https://www.biorxiv.org/content/10.1101/2020.09.10.291187v2). *Pest Management Science* In Press
+&emsp; Harvey-Samuel TD, Xu X, Lovett E, Dafa’alla T, Walker A, Norman VC,Carter R, Teal J, Akilan L, **Leftwich PT**, Reitmayer CM, Siddiqui HA, Alphey, L [Engineered
+expression of the invertebrate-specific scorpion toxin AaHIT reduces adult longevity and female fecundity in the diamondback moth Plutella xylostella](https://www.biorxiv.org/content/10.1101/2020.09.10.291187v2). *Pest Management Science* **In Press**
 <span class="__dimensions_badge_embed__" data-doi="10.1101/2020.09.10.291187" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2020.09.10.291187" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 &emsp; **Philip T Leftwich**, Lewis G Spurgin, Tim Harvey-Samuel, Callum Thomas, Leonela Carabajal Paladino, Matthew P. Edgington, Luke S Alphey. [Genetic pest management and the background genetics of release strains]( 
