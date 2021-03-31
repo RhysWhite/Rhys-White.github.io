@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<img src='/images/suppression_hi_res.gif' align="left" img style="padding-right: 50px" width="65%"> 
+<img src='/images/suppression_hi_res.gif' align="left" img style="padding-right: 50px" width="75%"> 
 
 ### **Genetic Pest Management** 
 My research is based in the emerging field of genetic pest management, focusing particularly on the agricultural pests *Ceratitis capitata* (medfly), and vector arthropods such as the mosquito *Aedes aegypti*. 
