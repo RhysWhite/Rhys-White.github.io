@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a full copy of my CV [here](http://Philip-leftwich.github.io/files/Curriculum_VitaePL_2020.pdf)
+You can find a full copy of my CV [here](https://github.com/Philip-Leftwich/PL_CV/blob/master/Philip_Leftwich_CV.pdf)
 
 Education
 ======
@@ -42,6 +42,8 @@ Career
   
 Grants
 ======
+* £100,000 PhD Studentship, Co-Supervisor BBSRC, 2020
+* £100,000 PhD Studentship, Co-Supervisor BBSRC, 2019
 * £1000 Entomology Program Enhancement Fund – Entomological Society of America, 2018
 * £460 Infravec Travel Grant, 2018
 * £376,000  Researcher Co-I on successful BBSRC Post-doctoral grant application, 2012
