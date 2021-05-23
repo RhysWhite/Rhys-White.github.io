@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rhys T White"
+title: "Rhys Thomas White"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -23,6 +23,6 @@ E-mail: rhys.white@uq.edu.au
 <meta name="twitter:description" content="Academic website for Rhys White BSc (Hons)" />
 <meta name="twitter:image" content="https://rhyswhite.github.io/images/whitesmall.jpg" />
 
-<div class='jekyll-twitter-plugin' align="center">
+<div class="jekyll-twitter-plugin" align="center">
     {% twitter https://twitter.com/RiboRhys maxwidth=500 limit=5 %}
 </div>
