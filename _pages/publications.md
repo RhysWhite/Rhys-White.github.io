@@ -20,7 +20,7 @@ author_profile: true
 
 &emsp; Kidsley AK, **White RT**, Beatson SA, Saputra S, Schembri MA, Gordon D, Johnson JR, O’Dea M, Mollinger JL, Abraham S, Trott DJ. Companion animals are spillover hosts of the multidrug-resistant human extraintestinal *Escherichia coli* pandemic clones ST131 and ST1193. *Frontiers in Microbiology* 2020;11:1968 doi: [10.3389/fmicb.2020.01968](https://doi.org/10.3389/fmicb.2020.01968) 
 
-<span class="__dimensions_badge_embed__" data-doi="10.3389/fmicb.2020.01968" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fmicb.2020.01968" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+<span class="__dimensions_badge_embed__" data-doi="10.3389/fmicb.2020.01968" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span>
 
 2019
 ====
