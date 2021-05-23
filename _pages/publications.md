@@ -28,11 +28,11 @@ author_profile: true
   
 2018
 ====
-White RT, Forde BM, Ashcroft MM, Roberts LW, Trott DJ, Gibson J, Mollinger JL, Rogers BA, Kidsley AK, Bell J, Turnidge J, Schembri MA, Beatson SA. Capsule-switching is associated with the rapid global expansion of the recently emerged fluoroquinolone-resistant *Escherichia coli* sequence type 1193 clone. Poster presented at: Australian Society for Microbiology (ASM) 2018. Brisbane, Australia; 2018 doi: [10.13140/RG.2.2.32515.43049](http://dx.doi.org/10.13140/RG.2.2.32515.43049)
+&emsp; White RT, Forde BM, Ashcroft MM, Roberts LW, Trott DJ, Gibson J, Mollinger JL, Rogers BA, Kidsley AK, Bell J, Turnidge J, Schembri MA, Beatson SA. Capsule-switching is associated with the rapid global expansion of the recently emerged fluoroquinolone-resistant *Escherichia coli* sequence type 1193 clone. Poster presented at: Australian Society for Microbiology (ASM) 2018. Brisbane, Australia; 2018 doi: [10.13140/RG.2.2.32515.43049](http://dx.doi.org/10.13140/RG.2.2.32515.43049)
 
 2017
 ====
-White RT, Forde BM, Roberts LW, Trott DJ, Gibson J, Mollinger JL, Schembri MA, Beatson SA. Genomic characterisation of *Escherichia coli* ST1193: an emerging fluoroquinolone-resistant variant of an O75-associated extra-intestinal pathogenic clonal group. Poster presented at: BacPath14. Hahndorf, Australia; 2017 doi: [10.13140/RG.2.2.20771.37928](http://dx.doi.org/10.13140/RG.2.2.20771.37928)
+&emsp; White RT, Forde BM, Roberts LW, Trott DJ, Gibson J, Mollinger JL, Schembri MA, Beatson SA. Genomic characterisation of *Escherichia coli* ST1193: an emerging fluoroquinolone-resistant variant of an O75-associated extra-intestinal pathogenic clonal group. Poster presented at: BacPath14. Hahndorf, Australia; 2017 doi: [10.13140/RG.2.2.20771.37928](http://dx.doi.org/10.13140/RG.2.2.20771.37928)
   
   
   
