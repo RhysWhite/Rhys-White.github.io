@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src='/images/UEA.jpg'>
+<img src='/images/dna-background.jpeg'>
 
 My research interests are in microbial genomics where I use comparative genomic approaches to better understand the evolution, emergence, and dissemination of bacterial pathogenesis. In particular, this includes phylogenomics, evolution, and characterisation of mobile genetic elements of uropathogens using bioinformatics.
 
