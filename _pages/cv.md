@@ -16,11 +16,10 @@ Education
 * PhD in Microbial Genomics, The University of Queensland, expected graduation 2021
 * BSc. (Hons.) in Biology, Cardiff University, 2016
 
-
 Career
 ======
 * PhD candidate, 2017 - *present*
-  * The University of Queensland
+  * The University of Queensland (UQ)
   * Supervisor: [Associate Professor Scott Beatson](https://scmb.uq.edu.au/profile/312/scott-beatson)
   * Teaching in Advanced Genome Informatics, Concepts in Bioinformatics, Genomics & Bioinformatics, and Microbial Genomics
   
@@ -34,7 +33,7 @@ Career
   
 Awards
 ======
-* AUD$330 The Australian Society for Microbiology Nancy Millis Student Award Finalist, 2020
+* AUD$330 The Australian Society for Microbiology (ASM) Nancy Millis Student Award Finalist, 2020
 * USD$1,000 Oxford Nanopore Technologies Bursary, 2019
 * AUD$200 ASM national meeting registration grant, 2018, 2019, and 2021
 * AUD$27,000 per annum (indexed annually) UQ Research Training Scholarship, 2018
@@ -42,3 +41,26 @@ Awards
 * AUD$160,000 UQ Research Training Scholarship, 2017
 * USD$1,000 The Karen Folk Professional Training Year Scholarship, 2014
 
+Service Development Outreach
+======
+* Academic Service
+  * Organising comittee for the Microbiology in Moreton Bay meeting for ASM Queensland Branch, 2019
+  * Organising comittee for the Nancy Millis student awards for ASM Queensland Branch, 2019
+  * Organising comittee for the student career panel event for ASM Queensland Branch, 2018
+  * Organised a seminar - COMBINE Brisbane networking seminar series, 2018
+ 
+* Professional Service
+  * ASM Queensland Branch Ex-officio, 2019 - *present*
+  * ASM Communications Ambassador, 2018 - *present*
+  * COMBINE (student-run Australian organisation for computational biology & bioinformatics) Media & Communications officer, 2019
+  * ASM Queensland Branch Student representative, 2018
+  * COMBINE local representative for Queensland, 2018
+
+* Professional Development
+  * ASM Social Media Communication training workshop – Zoom, Australia, 2020
+  * ASM Social Media Communication training workshop - Brisbane Convention & Exhibition Centre, QLD, Australia, 2018
+  * School of Chemistry and Molecular Biosciences 3 Minute Thesis Heats - The University of Queensland, QLD, Australia, 2017
+  * Faculty of Science English for Academic Communication course - The University of Queensland, QLD, Australia, 2017
+  * PacBio SMRT Sequencing Workshop – Queensland University of Technology, QLD, Australia, 2017
+  * Nature Microbiology Writing Workshop – The University of Queensland, QLD, Australia, 2017
+  * Public Health Research, Policy and Practice: Working Together in Wales – The University of South Wales, Wales, United Kingdom, 2016
