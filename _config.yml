@@ -13,7 +13,7 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://rhys-white.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : https://github.com/Philip-Leftwich
+repository               : https://github.com/RhysWhite
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Philip T Leftwich"
+  name             : "Rhys T White"
   avatar           : "leftwichsmall.jpg"
   bio              : "Lecturer in Biological Sciences / genetic pest control / insects / microbiome / gene drives"
-  location         : "Norwich, UK"
+  location         : "Brisbane, Australia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=5-qU7lkAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=NwdWAb4AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Rhys-White-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "https://github.com/RhysWhite"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0001-9500-6592"
+  linkedin         : "https://www.linkedin.com/in/rhystwhite/"
+  orcid            : "https://orcid.org/0000-0001-6620-758X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "PhilipLeftwich"
+  twitter          : "https://twitter.com/RiboRhys"
   vine             :
   weibo            :
   xing             :
