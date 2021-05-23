@@ -5,7 +5,8 @@ permalink: /people/
 author_profile: true
 ---
 
--
+[Associate Professor Scott Beatson](https://scmb.uq.edu.au/profile/312/scott-beatson) *Primary PhD supervisor*
+[Dr Brian Forde](https://researchers.uq.edu.au/researcher/2956) *Secondary PhD supervisor*
 
 
 Collaborators
