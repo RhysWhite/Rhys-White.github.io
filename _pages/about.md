@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Philip T Leftwich"
+title: "Rhys T White"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,20 +9,18 @@ redirect_from:
 ---
 <img src='/images/UEA.jpg'>
 
-I'm a molecular biologist interested in developing and testing gene drives and other genetic technologies to control pest insect species.  
+My research interests are in microbial genomics where I use comparative genomic approaches to better understand the evolution, emergence, and dissemination of bacterial pathogenesis. In particular, this includes phylogenomics, evolution, and characterisation of mobile genetic elements of uropathogens using bioinformatics.
 
-Currently based at the [University of East Anglia](https://people.uea.ac.uk/p_leftwich) I teach across a range of subjects including molecular biology, genetics, statistics and computing skills.
+I am currently a final year PhD candidate at [The University of Queensland](https://www.uq.edu.au/), Australia. I am also a member of the Beatson Group and [Australian Centre for Ecogenomics](https://ecogenomic.org/), and work with a number of sequencing datasets (including Illumina sequencing technology and Oxford Nanopore Technologies). My projects focus on phylogenomic analysis, and in-depth characterisation of antibiotic resistance and mobile genetic elements, of global Enterobacteriales. I have developed a broad range of skills/knowledge in bioinformatics & a variety of field work methods, offering great insight across the full spectrum of research design & implementation.
 
+Here you can find information on my research and current projects.
 
-Here you can find information on my research, current projects, and find details about teaching and outreach projects.
-
-
-E-mail: p.leftwich [at] uea.ac.uk
+E-mail: rhys.white@uq.edu.au
 
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@philipleftwich" />
-<meta name="twitter:title" content="Philip Leftwich" />
-<meta name="twitter:description" content="Academic website for Philip Leftwich PhD" />
-<meta name="twitter:image" content="https://philip-leftwich.github.io/images/leftwichsmall.jpg" />
+<meta name="twitter:site" content="@RiboRhys" />
+<meta name="twitter:title" content="Rhys White" />
+<meta name="twitter:description" content="Academic website for Rhys White BSc (Hons)" />
+<meta name="twitter:image" content="https://rhyswhite.github.io/images/whitesmall.jpg" />
 
 
