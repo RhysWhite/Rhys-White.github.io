@@ -22,7 +22,3 @@ E-mail: rhys.white@uq.edu.au
 <meta name="twitter:title" content="Rhys White" />
 <meta name="twitter:description" content="Academic website for Rhys White BSc (Hons)" />
 <meta name="twitter:image" content="https://rhyswhite.github.io/images/whitesmall.jpg" />
-
-<div class="jekyll-twitter-plugin" align="center">
-    {% twitter https://twitter.com/RiboRhys maxwidth=500 limit=5 %}
-</div>
