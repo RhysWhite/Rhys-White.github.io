@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=NwdWAb4AAAAJ&hl=en"
-  email            :
+  email            : "rhys.white@uq.edu.au"
   researchgate     : "https://www.researchgate.net/profile/Rhys-White-2"
   uri              :
   bitbucket        :
@@ -103,6 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "rhystwhite"
+  loop             : "https://loop.frontiersin.org/people/1002898/overview"
   orcid            : "https://orcid.org/0000-0001-6620-758X"
   pinterest        :
   soundcloud       :
