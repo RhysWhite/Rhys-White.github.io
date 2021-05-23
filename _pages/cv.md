@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a full copy of my CV [here](https://github.com/Philip-Leftwich/PL_CV/blob/master/Philip_Leftwich_CV.pdf)
+You can find a full copy of my CV [here]()
 
 Education
 ======
