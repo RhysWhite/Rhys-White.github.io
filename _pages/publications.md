@@ -25,7 +25,4 @@ author_profile: true
 ====
 
 &emsp; Ashcroft MM, Forde BM, Phan MD, Peters KM, Henderson A, Hancock SJ, Roberts LW, **White RT**, Chan KG, Chong TM, Yin WF, Paterson DL, Walsh TR, Schembri MA, Beatson SA. Genomic characterisation and context of the *bla*<sub>NDM-1</sub> carbapenemase in *Escherichia coli* ST101. bioRxiv:860726v2 [Preprint]. 2019. Available from: https://www.biorxiv.org/content/10.1101/860726v2 doi: [10.1101/860726](https://doi.org/10.1101/860726)
-  
-<span class="__dimensions_badge_embed__" data-doi="10.1101/860726"></span><script async src="https://badges.dimensions.ai/badge.js" charset="utf-8"></script>
-  
 <span class="__dimensions_badge_embed__" data-doi="10.1101/860726" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/860726" data-hide-no-mentions="true" class="altmetric-embed"> </span>
