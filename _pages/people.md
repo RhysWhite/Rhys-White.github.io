@@ -16,6 +16,6 @@ author_profile: true
 
 Collaborators
 ======
-[Professor Tracey Chapman](https://www.traceychapmanresearch.com/)
+[Dr James Connolly](https://www.ncl.ac.uk/medical-sciences/people/profile/jamesconnolly2.html)
 
-[Professor Luke Alphey](https://www.pirbright.ac.uk/users/prof-luke-alphey)
+[Dr Martina Jelocnik](https://www.usc.edu.au/staff/dr-martina-jelocnik)
