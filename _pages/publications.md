@@ -14,6 +14,7 @@ author_profile: true
 ====
 
 &emsp; **White RT**, Bull MJ, Barker CR, Arnott JM, Wootton M, Jones LS, Howe RA, Morgan M, Ashcroft MM, Forde BM, Connor TR, Beatson SA. Genomic epidemiology reveals geographical clustering of multidrug-resistant *Escherichia coli* sequence type (ST)131 associated with bacteraemia in Wales, United Kingdom. medRxiv:<Insert> [Preprint]. 2021. Available from: <Insert> doi: <Insert>
+<span class="__dimensions_badge_embed__" data-doi="10.3389/fmicb.2020.01968" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fmicb.2020.01968" data-hide-no-mentions="true" class="altmetric-embed"> </span>
   
 2020
 ====
