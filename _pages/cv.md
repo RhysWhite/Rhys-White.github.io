@@ -37,7 +37,7 @@ Awards
 * AUD$330 The Australian Society for Microbiology Nancy Millis Student Award Finalist, 2020
 * USD$1,000 Oxford Nanopore Technologies Bursary, 2019
 * AUD$200 ASM national meeting registration grant, 2018, 2019, and 2021
-* UD$27,000 per annum (indexed annually) UQ Research Training Scholarship, 2018
+* AUD$27,000 per annum (indexed annually) UQ Research Training Scholarship, 2018
 * AUD$26,600 per annum (indexed annually) Research Higher Degree Scholarship, 2017
 * AUD$160,000 UQ Research Training Scholarship, 2017
 * USD$1,000 The Karen Folk Professional Training Year Scholarship, 2014
