@@ -17,12 +17,15 @@ Here you can find information on my research and current projects.
 
 E-mail: rhys.white@uq.edu.au
 
+{% twitternocache https://twitter.com/rubygems/status/518821243320287232 %}
+
+<div class='jekyll-twitter-plugin'>
+    -- content from API --
+</div>
+
+
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@RiboRhys" />
 <meta name="twitter:title" content="Rhys White" />
 <meta name="twitter:description" content="Academic website for Rhys White BSc (Hons)" />
 <meta name="twitter:image" content="https://rhyswhite.github.io/images/whitesmall.jpg" />
-
-<div class='jekyll-twitter-plugin'>
-    -- content from API --
-</div>
