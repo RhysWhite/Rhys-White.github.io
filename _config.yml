@@ -57,10 +57,6 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  consumer_key: asdf
-  consumer_secret: asdf
-  access_token: asdf
-  access_token_secret: asdf
   username               : RiboRhys
 facebook:
   username               :
@@ -281,7 +277,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-plugins: ['jekyll-twitter-plugin']
+  - jekyll-twitter-plugin
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
