@@ -13,38 +13,32 @@ You can find a full copy of my CV [here](https://github.com/Philip-Leftwich/PL_C
 
 Education
 ======
-* B.Sc. in Zoology, Durham University, 2008
-* Ph.D CASE award with Oxitec Ltd, University of East Anglia, 2013
-* Fellow of the Higher Education Academy (FHEA), 2016
+* PhD in Microbial Genomics, The University of Queensland, expected graduation 2021
+* BSc. (Hons.) in Biology, Cardiff University, 2016
+
 
 Career
 ======
-* Lecturer in Biological Sciences, 2019 - *present*. University of East Anglia
-  * Module organiser 5009A: Genetics
-  * Module organiser 5023Y: Data Science
-  * Teaching in Science communication, Microbiology, Genomics, Skills for Biologists & Field Ecology 
-
-* Postdoctoral Researcher/ Project Manager, 2016-2019
-  * Pirbright Institute
-  * Team leader on 'Developing methods for driving beneficial genetic traits into vector populations'
-  * Supervisor: Professor Luke Alphey
-  * Wellcome Trust funded research grant
+* PhD candidate, 2017 - *present*
+  * The University of Queensland
+  * Supervisor: [Associate Professor Scott Beatson](https://scmb.uq.edu.au/profile/312/scott-beatson)
+  * Teaching in Advanced Genome Informatics, Concepts in Bioinformatics, Genomics & Bioinformatics, and Microbial Genomics
   
-* Teaching position, 2015-2016
-  * University of East Anglia
-  * Module organiser for 'Biodiversity'
+* Public Health Intelligence Analyst, 2017
+  * The Public Health Wales Observatory
+  * Public Health Wales NHS Trust, Cardiff, United Kingdom
   
-* Postdoctoral Researcher/ Researcher Co-I, 2012-2015
-  * 'Colonisation, Domestication and Population control in pest insects'
-  * University of East Anglia
-  * Supervisor: Professor Tracey Chapman
-  * BBSRC funded research grant
+* Dispensary Assistant (part time), 2015 - 2017
+  * Asda Pharmacy
+  * Asda Stores Ltd., Cardiff, United Kingdom
   
-Grants
+Awards
 ======
-* £100,000 PhD Studentship, Co-Supervisor BBSRC, 2020
-* £100,000 PhD Studentship, Co-Supervisor BBSRC, 2019
-* £1000 Entomology Program Enhancement Fund – Entomological Society of America, 2018
-* £460 Infravec Travel Grant, 2018
-* £376,000  Researcher Co-I on successful BBSRC Post-doctoral grant application, 2012
+* AUD$330 The Australian Society for Microbiology Nancy Millis Student Award Finalist, 2020
+* USD$1,000 Oxford Nanopore Technologies Bursary, 2019
+* AUD$200 ASM national meeting registration grant, 2018, 2019, and 2021
+* UD$27,000 per annum (indexed annually) UQ Research Training Scholarship, 2018
+* AUD$26,600 per annum (indexed annually) Research Higher Degree Scholarship, 2017
+* AUD$160,000 UQ Research Training Scholarship, 2017
+* USD$1,000 The Karen Folk Professional Training Year Scholarship, 2014
 
