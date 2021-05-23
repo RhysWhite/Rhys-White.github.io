@@ -57,6 +57,10 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
+  consumer_key: asdf
+  consumer_secret: asdf
+  access_token: asdf
+  access_token_secret: asdf
   username               : RiboRhys
 facebook:
   username               :
