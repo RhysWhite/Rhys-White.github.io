@@ -12,6 +12,8 @@ My research investigates the genomics behind Enterobacterales associated with ur
 
 <img src='/images/rhys_viz_1.gif' width="75%"> 
 
+Thanks to [Antti Lipponen](https://gist.github.com/anttilipp) for making the [Python code](https://gist.github.com/anttilipp/6b572512ef53cfc6bf949afdc8eb6720) used to make the visualization "Temperature circle" readily available.
+
 <p>&nbsp;</p>
 
 I focus on uropathogenic *Escherichia coli* (UPEC), which are the leading cause of urinary and systemic infections. UPEC are bacteria that cause infection rather than commensal bacteria. 
