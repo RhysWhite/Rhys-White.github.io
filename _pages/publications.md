@@ -10,8 +10,7 @@ author_profile: true
 
   You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=NwdWAb4AAAAJ&hl=en) page
   
-2021
-====
+## 2021
 
 ### Genomic epidemiology reveals geographical clustering of multidrug-resistant *Escherichia coli* sequence type (ST)131 associated with bacteraemia in Wales, United Kingdom
 
