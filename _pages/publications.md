@@ -15,7 +15,9 @@ author_profile: true
 ### [Genomic epidemiology reveals geographical clustering of multidrug-resistant *Escherichia coli* sequence type (ST)131 associated with bacteraemia in Wales, United Kingdom](https://doi.org/10.1101/2021.05.21.21257487)
 
 &emsp; **White RT**, Bull MJ, Barker CR, Arnott JM, Wootton M, Jones LS, Howe RA, Morgan M, Ashcroft MM, Forde BM, Connor TR, Beatson SA. Genomic epidemiology reveals geographical clustering of multidrug-resistant *Escherichia coli* sequence type (ST)131 associated with bacteraemia in Wales, United Kingdom. medRxiv:21257487v1 [Preprint]. 2021. Available from: https://www.medrxiv.org/content/10.1101/2021.05.21.21257487v1 doi: [10.1101/2021.05.21.21257487](https://doi.org/10.1101/2021.05.21.21257487)
-  
+
+<span class="__dimensions_badge_embed__" data-doi="10.1101/2021.05.21.21257487" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2021.05.21.21257487" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 ## 2020
 
 ### [Companion animals are spillover hosts of the multidrug-resistant human extraintestinal *Escherichia coli* pandemic clones ST131 and ST1193](https://doi.org/10.3389/fmicb.2020.01968)
