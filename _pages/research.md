@@ -12,7 +12,7 @@ My research investigates the genomics behind Enterobacterales associated with ur
 
 <img src='/images/rhys_viz_1.gif' width="75%"> 
 
-Thanks to [Antti Lipponen](https://gist.github.com/anttilipp) for making the [Python code](https://gist.github.com/anttilipp/6b572512ef53cfc6bf949afdc8eb6720) used to make the visualization "Temperature circle" readily available.
+Thanks to [Antti Lipponen](https://gist.github.com/anttilipp) for making the [Python code](https://gist.github.com/anttilipp/6b572512ef53cfc6bf949afdc8eb6720) used to make the visualisation "Temperature circle" readily available.
 
 <p>&nbsp;</p>
 
