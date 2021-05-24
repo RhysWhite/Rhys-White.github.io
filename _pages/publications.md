@@ -12,9 +12,9 @@ author_profile: true
   
 ## 2021
 
-### Genomic epidemiology reveals geographical clustering of multidrug-resistant *Escherichia coli* sequence type (ST)131 associated with bacteraemia in Wales, United Kingdom
+### [Genomic epidemiology reveals geographical clustering of multidrug-resistant *Escherichia coli* sequence type (ST)131 associated with bacteraemia in Wales, United Kingdom](https://doi.org/10.1101/2021.05.21.21257487)
 
-&emsp; **White RT**, Bull MJ, Barker CR, Arnott JM, Wootton M, Jones LS, Howe RA, Morgan M, Ashcroft MM, Forde BM, Connor TR, Beatson SA. Genomic epidemiology reveals geographical clustering of multidrug-resistant *Escherichia coli* sequence type (ST)131 associated with bacteraemia in Wales, United Kingdom. medRxiv:<Insert> [Preprint]. 2021. Available from: <Insert> doi: <Insert>
+&emsp; **White RT**, Bull MJ, Barker CR, Arnott JM, Wootton M, Jones LS, Howe RA, Morgan M, Ashcroft MM, Forde BM, Connor TR, Beatson SA. Genomic epidemiology reveals geographical clustering of multidrug-resistant *Escherichia coli* sequence type (ST)131 associated with bacteraemia in Wales, United Kingdom. medRxiv:<Insert> [Preprint]. 2021. Available from: https://www.medrxiv.org/content/10.1101/2021.05.21.21257487v1 doi: [10.1101/2021.05.21.21257487](https://doi.org/10.1101/2021.05.21.21257487)
   
 ## 2020
 
