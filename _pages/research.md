@@ -17,8 +17,3 @@ Thanks to [Antti Lipponen](https://gist.github.com/anttilipp) for making the [Py
 <p>&nbsp;</p>
 
 I focus on uropathogenic *Escherichia coli* (UPEC), which are the leading cause of urinary and systemic infections. UPEC are bacteria that cause infection rather than commensal bacteria. 
-
-### **Gut microbes and behaviour**
-I also work to investigate the effects of gut microbes on mate choice in fruitflies (*Drosophila* and medfly) and explore these effects in terms of the evolutionary associations between hosts and their symbionts.
-
-<img src='/images/transmission_V3.png' > 
