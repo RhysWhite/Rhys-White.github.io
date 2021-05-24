@@ -32,6 +32,10 @@ author_profile: true
 
 <span class="__dimensions_badge_embed__" data-doi="10.1101/860726" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/860726" data-hide-no-mentions="true" class="altmetric-embed"> </span>
   
+
+Conference Posters
+===================
+  
 ## 2018
 
 ### [Capsule-switching is associated with the rapid global expansion of the recently emerged fluoroquinolone-resistant *Escherichia coli* sequence type 1193 clone](http://dx.doi.org/10.13140/RG.2.2.32515.43049)
