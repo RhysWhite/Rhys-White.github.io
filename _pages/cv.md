@@ -33,6 +33,7 @@ Career
   
 Awards
 ======
+* USD$1,000 Oxford Nanopore Technologies Bursary, 2021
 * AUD$330 The Australian Society for Microbiology (ASM) Nancy Millis Student Award Finalist, 2020
 * USD$1,000 Oxford Nanopore Technologies Bursary, 2019
 * AUD$200 ASM national meeting registration grant, 2018, 2019, and 2021
