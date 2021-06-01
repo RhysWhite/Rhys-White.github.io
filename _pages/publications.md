@@ -38,6 +38,14 @@ author_profile: true
 Conference Posters
 ===================
   
+## 2021
+
+### [Genomic epidemiology reveals geographical clustering of multidrug-resistant *Escherichia coli* sequence type (ST)131 associated with bacteraemia in Wales, United Kingdom](http://dx.doi.org/10.13140/RG.2.2.12751.41122)
+  
+&emsp; **White RT**, Bull MJ, Barker CR, Arnott JM, Wootton M, Jones LS, Howe RA, Morgan M, Ashcroft MM, Forde BM, Connor TR, Beatson SA. Genomic epidemiology reveals geographical clustering of multidrug-resistant *Escherichia coli* sequence type (ST)131 associated with bacteraemia in Wales, United Kingdom. Poster presented at: Australian Society for Microbiology (ASM) 2021. Melbourne, Australia; 2021 doi: [10.13140/RG.2.2.12751.41122](http://dx.doi.org/10.13140/RG.2.2.12751.41122)
+
+<span class="__dimensions_badge_embed__" data-doi="10.13140/RG.2.2.12751.41122" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.13140/RG.2.2.12751.41122" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+  
 ## 2018
 
 ### [Capsule-switching is associated with the rapid global expansion of the recently emerged fluoroquinolone-resistant *Escherichia coli* sequence type 1193 clone](http://dx.doi.org/10.13140/RG.2.2.32515.43049)
