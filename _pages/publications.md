@@ -12,6 +12,12 @@ author_profile: true
   
 ## 2021
 
+### [*Escherichia coli*: placing resistance to third-generation cephalosporins and fluoroquinolones in Australia and New Zealand into perspective](https://doi.org/10.1071/MA21031)
+
+&emsp; **White RT**. *Escherichia coli*: placing resistance to third-generation cephalosporins and fluoroquinolones in Australia and New Zealand into perspective. *Microbiology Australia* 2021 doi: [10.1071/MA21031](https://doi.org/10.1071/MA21031)
+
+<span class="__dimensions_badge_embed__" data-doi="10.1101/2021.05.21.21257487" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2021.05.21.21257487" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 ### [Genomic epidemiology reveals geographical clustering of multidrug-resistant *Escherichia coli* sequence type (ST)131 associated with bacteraemia in Wales, United Kingdom](https://doi.org/10.1101/2021.05.21.21257487)
 
 &emsp; **White RT**, Bull MJ, Barker CR, Arnott JM, Wootton M, Jones LS, Howe RA, Morgan M, Ashcroft MM, Forde BM, Connor TR, Beatson SA. Genomic epidemiology reveals geographical clustering of multidrug-resistant *Escherichia coli* sequence type (ST)131 associated with bacteraemia in Wales, United Kingdom. medRxiv:21257487v1 [Preprint]. 2021. Available from: https://www.medrxiv.org/content/10.1101/2021.05.21.21257487v1 doi: [10.1101/2021.05.21.21257487](https://doi.org/10.1101/2021.05.21.21257487)
