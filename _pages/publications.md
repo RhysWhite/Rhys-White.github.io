@@ -14,7 +14,7 @@ author_profile: true
 
 ### [*Escherichia coli*: placing resistance to third-generation cephalosporins and fluoroquinolones in Australia and New Zealand into perspective](https://doi.org/10.1071/MA21031)
 
-&emsp; **White RT**. *Escherichia coli*: placing resistance to third-generation cephalosporins and fluoroquinolones in Australia and New Zealand into perspective. *Microbiology Australia* 2021 doi: [10.1071/MA21031](https://doi.org/10.1071/MA21031)
+&emsp; **White RT**. *Escherichia coli*: placing resistance to third-generation cephalosporins and fluoroquinolones in Australia and New Zealand into perspective. *Microbiology Australia* 2021;42:104-110 doi: [10.1071/MA21031](https://doi.org/10.1071/MA21031)
 
 <span class="__dimensions_badge_embed__" data-doi="10.1071/MA21031" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1071/MA21031" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
