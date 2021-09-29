@@ -26,3 +26,7 @@ Raw Illumina sequence read data have been deposited to the NCBI SRA under the ac
 
 The high-quality draft assemblies have been deposited to GenBank under the accession numbers [JAHIDC000000000 to JAHIDU000000000 and JAHIDV000000000](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA627752)
 
+
+Twitter thread
+------
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our <a href="https://twitter.com/hashtag/research?src=hash&amp;ref_src=twsrc%5Etfw">#research</a> into <a href="https://twitter.com/hashtag/pandemic?src=hash&amp;ref_src=twsrc%5Etfw">#pandemic</a> multidrug-resistant E. coli O25b:H4:ST131 is FINALLY out in <a href="https://twitter.com/FrontMicrobiol?ref_src=twsrc%5Etfw">@FrontMicrobiol</a>‼️ Using WGS to show companion animals represent occasional spillover hosts rather than primary reservoirs for the ST131 lineage...a thread⬇️1/7<br><br>Paper👉<a href="https://t.co/IzApYeG68S">https://t.co/IzApYeG68S</a> <a href="https://t.co/jFHj6195NR">pic.twitter.com/jFHj6195NR</a></p>&mdash; Rhys White 🧬 (@RiboRhys) <a href="https://twitter.com/RiboRhys/status/1301039353058136066?ref_src=twsrc%5Etfw">September 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
