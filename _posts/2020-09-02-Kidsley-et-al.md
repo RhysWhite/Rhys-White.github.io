@@ -1,11 +1,12 @@
 ---
 title: 'Companion animals are spillover hosts of the multidrug-resistant human extraintestinal _Escherichia coli_ pandemic clones ST131 and ST1193'
 date: 2020-09-02
-permalink: /posts/2020/09/blog-post-1/
+permalink: /posts/2020/Kidsley-et-al/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Escherichia coli
+  - Companion animals
+  - ST131
+  - Genomics
 ---
 
 We use whole-genome sequencing to show that companion animals represent occasional spillover hosts rather than primary reservoirs for the _E. coli_ sequence type (ST)131 lineage.
