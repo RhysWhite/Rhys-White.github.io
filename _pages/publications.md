@@ -12,6 +12,12 @@ author_profile: true
   
 ## 2021
 
+### [Completing the genome sequence of *Chlamydia pecorum* strains MC/MarsBar and DBDeUG: New insights into this enigmatic koala (*Phascolarctos cinereus*) pathogen](https://doi.org/10.3390/pathogens10121543)
+
+&emsp; **White RT**, Legione AR, Taylor-Brown A, Fernandez CM, Higgins DP, Timms P, Jelocnik M. Completing the genome sequence of *Chlamydia pecorum* strains MC/MarsBar and DBDeUG: New insights into this enigmatic koala (*Phascolarctos cinereus*) pathogen. *Pathogens* 2021;10(12):1543 doi: [10.3390/pathogens10121543](https://doi.org/10.3390/pathogens10121543)
+
+<span class="__dimensions_badge_embed__" data-doi="10.3390/pathogens10121543" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.3390/pathogens10121543" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 ### [*Escherichia coli*: placing resistance to third-generation cephalosporins and fluoroquinolones in Australia and New Zealand into perspective](https://doi.org/10.1071/MA21031)
 
 &emsp; **White RT**. *Escherichia coli*: placing resistance to third-generation cephalosporins and fluoroquinolones in Australia and New Zealand into perspective. *Microbiology Australia* 2021;42:104-110 doi: [10.1071/MA21031](https://doi.org/10.1071/MA21031)
