@@ -20,6 +20,13 @@ Read the full publication here: [https://doi.org/10.3390/pathogens10121543](http
 
 <a href="https://www.scimagojr.com/journalsearch.php?q=21100337905&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100337905" alt="SCImago Journal &amp; Country Rank"  /></a>
 
+Data availability
+------
+Sequence read data has been submitted to the National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA) under BioProject [PRJNA747116](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA747116)
+
+Raw Illumina sequence read data have been deposited to the NCBI SRA under the accession numbers [SRR15170907 and SRR15170908](https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=747116)
+
+The high-quality draft assemblies have been deposited to GenBank under the accession numbers [CP080401 to CP080404](https://www.ncbi.nlm.nih.gov/nuccore?term=747116%5BBioProject%5D)
 
 #Twitter thread
 #------
