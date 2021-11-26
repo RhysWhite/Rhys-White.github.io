@@ -17,6 +17,8 @@ author_profile: true
 &emsp; **White RT**, Legione AR, Taylor-Brown A, Fernandez CM, Higgins DP, Timms P, Jelocnik M. Completing the genome sequence of *Chlamydia pecorum* strains MC/MarsBar and DBDeUG: New insights into this enigmatic koala (*Phascolarctos cinereus*) pathogen. *Pathogens* 2021;10(12):1543 doi: [10.3390/pathogens10121543](https://doi.org/10.3390/pathogens10121543)
 
 <span class="__dimensions_badge_embed__" data-doi="10.3390/pathogens10121543" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.3390/pathogens10121543" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+  
+<a href="https://www.scimagojr.com/journalsearch.php?q=21100337905&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100337905" alt="SCImago Journal &amp; Country Rank"  /></a>
 
 ### [*Escherichia coli*: placing resistance to third-generation cephalosporins and fluoroquinolones in Australia and New Zealand into perspective](https://doi.org/10.1071/MA21031)
 
