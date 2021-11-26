@@ -18,6 +18,8 @@ _Escherichia coli_ sequence types 131 (ST131) and 1193 are multidrug-resistant e
 Read the full publication here: [https://doi.org/10.3389/fmicb.2020.01968](https://doi.org/10.3389/fmicb.2020.01968)
 ------
 
+<a href="https://www.scimagojr.com/journalsearch.php?q=21100226442&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100226442" alt="SCImago Journal &amp; Country Rank"  /></a>
+
 Data availability
 ------
 Sequence read data has been submitted to the National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA) under BioProject [PRJNA627752](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA627752)
