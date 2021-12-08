@@ -12,7 +12,7 @@ redirect_from:
 You can find a full copy of my CV [here]()
 
 Education
-======
+------
 * PhD in Microbial Genomics, The University of Queensland, expected graduation 2022
 * BSc. (Hons.) in Biology, Cardiff University, 2016
 
