@@ -27,9 +27,16 @@ Kidsley AK, **White RT**, Beatson SA, Saputra S, Schembri MA, Gordon D, Johnson 
 &emsp;ST131 and ST1193. *Frontiers in Microbiology* 2020;11:1968<br/>
 &emsp;doi: [10.3389/fmicb.2020.01968](https://doi.org/10.3389/fmicb.2020.01968) 
 
-&emsp; **White RT**, Legione AR, Taylor-Brown A, Fernandez CM, Higgins DP, Timms P, Jelocnik M. Completing the genome sequence of *Chlamydia pecorum* strains MC/MarsBar and DBDeUG: New insights into this enigmatic koala (*Phascolarctos cinereus*) pathogen. *Pathogens* 2021;10(12):1543 doi: [10.3390/pathogens10121543](https://doi.org/10.3390/pathogens10121543)
+**White RT**, Legione AR, Taylor-Brown A, Fernandez CM, Higgins DP, Timms P, Jelocnik M.<br/>
+&emsp;Completing the genome sequence of *Chlamydia pecorum* strains MC/MarsBar and<br/>
+&emsp;DBDeUG: New insights into this enigmatic koala (*Phascolarctos cinereus*) pathogen.<br/>
+&emsp;*Pathogens* 2021;10(12):1543<br/>
+&emsp;doi: [10.3390/pathogens10121543](https://doi.org/10.3390/pathogens10121543)
 
-&emsp; **White RT**. *Escherichia coli*: placing resistance to third-generation cephalosporins and fluoroquinolones in Australia and New Zealand into perspective. *Microbiology Australia* 2021;42:104-110 doi: [10.1071/MA21031](https://doi.org/10.1071/MA21031)
+**White RT**. *Escherichia coli*: placing resistance to third-generation cephalosporins and<br/>
+&emsp;fluoroquinolones in Australia and New Zealand into perspective. *Microbiology Australia*<br/>
+&emsp;2021;42:104-110<br/>
+&emsp;doi: [10.1071/MA21031](https://doi.org/10.1071/MA21031)
 
 
 ## Awards
