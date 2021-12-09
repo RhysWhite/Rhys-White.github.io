@@ -21,7 +21,11 @@ BSc. (Hons.), Biology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n
 
 ## Primary research articles (peer reviewed)
 
-&emsp; Kidsley AK, **White RT**, Beatson SA, Saputra S, Schembri MA, Gordon D, Johnson JR, O’Dea M, Mollinger JL, Abraham S, Trott DJ. Companion animals are spillover hosts of the multidrug-resistant human extraintestinal *Escherichia coli* pandemic clones ST131 and ST1193. *Frontiers in Microbiology* 2020;11:1968 doi: [10.3389/fmicb.2020.01968](https://doi.org/10.3389/fmicb.2020.01968) 
+Kidsley AK, **White RT**, Beatson SA, Saputra S, Schembri MA, Gordon D, Johnson JR,<br/> 
+&emsp;O’Dea M, Mollinger JL, Abraham S, Trott DJ. Companion animals are spillover hosts<br/>
+&emsp;of the multidrug-resistant human extraintestinal *Escherichia coli* pandemic clones<br/>
+&emsp;ST131 and ST1193. *Frontiers in Microbiology* 2020;11:1968<br/>
+&emsp;doi: [10.3389/fmicb.2020.01968](https://doi.org/10.3389/fmicb.2020.01968) 
 
 &emsp; **White RT**, Legione AR, Taylor-Brown A, Fernandez CM, Higgins DP, Timms P, Jelocnik M. Completing the genome sequence of *Chlamydia pecorum* strains MC/MarsBar and DBDeUG: New insights into this enigmatic koala (*Phascolarctos cinereus*) pathogen. *Pathogens* 2021;10(12):1543 doi: [10.3390/pathogens10121543](https://doi.org/10.3390/pathogens10121543)
 
