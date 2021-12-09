@@ -80,12 +80,6 @@ __Researcher__
 
 Asda Stores Ltd., Cardiff, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _May 2015 to March 2017_<br/>
 __Dispensary Assistant (part time)__
-
-
-* PhD candidate, 2017 - *present*
-  * The University of Queensland (UQ)
-  * Supervisor: [Associate Professor Scott Beatson](https://scmb.uq.edu.au/profile/312/scott-beatson)
-  * Teaching in Advanced Genome Informatics, Concepts in Bioinformatics, Genomics & Bioinformatics, and Microbial Genomics
   
 ## Service Development Outreach
 
