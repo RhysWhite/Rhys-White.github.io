@@ -11,17 +11,24 @@ redirect_from:
 
 You can find a full copy of my CV [here]()
 
-Education
-======
+## Education
 
-__The University of Queensland (UQ)__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _Brisbane, Australia_<br/>
+__The University of Queensland (UQ)__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _Brisbane, Australia_<br/>
 Ph.D., Microbial Genomics &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _expected graduation 2022_
 
 __Cardiff University__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  _Cardiff, United Kingdom_<br/>
 BSc. (Hons.), Biology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _Graduated 2016_
 
-Awards
-======
+## Primary research articles (peer reviewed)
+
+&emsp; Kidsley AK, **White RT**, Beatson SA, Saputra S, Schembri MA, Gordon D, Johnson JR, O’Dea M, Mollinger JL, Abraham S, Trott DJ. Companion animals are spillover hosts of the multidrug-resistant human extraintestinal *Escherichia coli* pandemic clones ST131 and ST1193. *Frontiers in Microbiology* 2020;11:1968 doi: [10.3389/fmicb.2020.01968](https://doi.org/10.3389/fmicb.2020.01968) 
+
+&emsp; **White RT**, Legione AR, Taylor-Brown A, Fernandez CM, Higgins DP, Timms P, Jelocnik M. Completing the genome sequence of *Chlamydia pecorum* strains MC/MarsBar and DBDeUG: New insights into this enigmatic koala (*Phascolarctos cinereus*) pathogen. *Pathogens* 2021;10(12):1543 doi: [10.3390/pathogens10121543](https://doi.org/10.3390/pathogens10121543)
+
+&emsp; **White RT**. *Escherichia coli*: placing resistance to third-generation cephalosporins and fluoroquinolones in Australia and New Zealand into perspective. *Microbiology Australia* 2021;42:104-110 doi: [10.1071/MA21031](https://doi.org/10.1071/MA21031)
+
+
+## Awards
 
 __Nanopore Bursary__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _2021_<br/>
 Oxford Nanopore Technologies Ltd.
@@ -48,8 +55,7 @@ __The Karen Folk Professional Training Year Scholarship__ &nbsp; &nbsp; &nbsp; &
 Danau Girang Field Centre – Cardiff University
 
 
-Related Experience
-======
+## Related Experience
 
 School of Chemistry and Molecular Biosciences, UQ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _July 2017 to present_<br/>
 __Casual Demonstrator__
@@ -69,13 +75,8 @@ __Dispensary Assistant (part time)__
   * Supervisor: [Associate Professor Scott Beatson](https://scmb.uq.edu.au/profile/312/scott-beatson)
   * Teaching in Advanced Genome Informatics, Concepts in Bioinformatics, Genomics & Bioinformatics, and Microbial Genomics
   
-* Public Health Intelligence Analyst, 2017
-  * The Public Health Wales Observatory
-  * Public Health Wales NHS Trust, Cardiff, United Kingdom
   
-* Dispensary Assistant (part time), 2015 - 2017
-  * Asda Pharmacy
-  * Asda Stores Ltd., Cardiff, United Kingdom
+  
   
 
 Service Development Outreach
