@@ -42,6 +42,27 @@ Kidsley AK, **White RT**, Beatson SA, Saputra S, Schembri MA, Gordon D, Johnson 
 &emsp;2021;42:104-110<br/>
 &emsp;doi: [10.1071/MA21031](https://doi.org/10.1071/MA21031)
 
+## Under Review
+
+Omalekia L, Blackall PJ, Cuddihy T, **White RT**, Courtice JM, Turnia C, Forde BM,<br/>
+&emsp;Beatson SA. Genomic analysis of *Pasteurella multocida* associated with outbreaks of<br/>
+&emsp;fowl cholera on free range layer farms. *Microbial Genomics* 2022
+
+## Preprints
+
+Ashcroft MM, Forde BM, Phan MD, Peters KM, Henderson A, Hancock SJ, Roberts LW,<br/>
+&emsp;**White RT**, Chan KG, Chong TM, Yin WF, Paterson DL, Walsh TR, Schembri MA,<br/>
+&emsp;Beatson SA. Genomic characterisation and context of the *bla*<sub>NDM-1</sub> carbapenemase<br/>
+&emsp;in *Escherichia coli* ST101. bioRxiv:860726v2 [Preprint]. 2019.<br/>
+&emsp;Available from: https://www.biorxiv.org/content/10.1101/860726v2<br/>
+&emsp;doi: [10.1101/860726](https://doi.org/10.1101/860726) 
+
+**White RT**, Bull MJ, Barker CR, Arnott JM, Wootton M, Jones LS, Howe RA, Morgan M,<br/>
+&emsp;Ashcroft MM, Forde BM, Connor TR, Beatson SA. Genomic epidemiology reveals<br/>
+&emsp;geographical clustering of multidrug-resistant *Escherichia coli* sequence type (ST)131<br/>
+&emsp;associated with bacteraemia in Wales, United Kingdom. medRxiv:21257487v1 [Preprint].<br/>
+&emsp;2021. Available from: https://www.medrxiv.org/content/10.1101/2021.05.21.21257487v1<br/>
+&emsp;doi: [10.1101/2021.05.21.21257487](https://doi.org/10.1101/2021.05.21.21257487)
 
 ## Awards
 
@@ -91,6 +112,7 @@ __Academic Service__
   * Organising comittee for the student career panel event for ASM Queensland Branch, 2018
   * Organised a seminar - COMBINE Brisbane networking seminar series, 2018
  
+ 
 __Professional Service__
   * ASM Communications Ambassador, 2018 - *present*
   * ASM Queensland Branch Ex-officio, 2019 - 2021
