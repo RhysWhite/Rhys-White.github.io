@@ -45,8 +45,8 @@ Kidsley AK, **White RT**, Beatson SA, Saputra S, Schembri MA, Gordon D, Johnson 
 ## Under Review
 
 Omalekia L, Blackall PJ, Cuddihy T, **White RT**, Courtice JM, Turnia C, Forde BM,<br/>
-&emsp;Beatson SA. Genomic analysis of *Pasteurella multocida* associated with outbreaks of<br/>
-&emsp;fowl cholera on free range layer farms. *Microbial Genomics* 2022
+&emsp;Beatson SA. Genomic analysis of *Pasteurella multocida* associated with outbreaks<br/>
+&emsp;of fowl cholera on free range layer farms. *Microbial Genomics* 2022
 
 ## Preprints
 
