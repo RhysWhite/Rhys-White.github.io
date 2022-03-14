@@ -10,6 +10,17 @@ author_profile: true
 
   You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=NwdWAb4AAAAJ&hl=en) page
   
+## 2022
+
+### [Phase variation in the glycosyltransferase genes of *Pasteurella multocida* associated with outbreaks of fowl cholera on free-range layer farms](https://doi.org/10.1099/mgen.0.000772)
+
+Omaleki L, Blackall PJ, Cuddihy T, **White RT**, Courtice JM, Turni C, Forde BM, Beatson SB. 
+
+
+&emsp; Omaleki L, Blackall PJ, Cuddihy T, **White RT**, Courtice JM, Turni C, Forde BM, Beatson SB. Phase variation in the glycosyltransferase genes of *Pasteurella multocida* associated with outbreaks of fowl cholera on free-range layer farms. *Microbial Genomics* 2022;8:000772 doi: [10.1099/mgen.0.000772](https://doi.org/10.1099/mgen.0.000772)
+
+<span class="__dimensions_badge_embed__" data-doi="10.1099/mgen.0.000772" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1099/mgen.0.000772" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 ## 2021
 
 ### [Completing the genome sequence of *Chlamydia pecorum* strains MC/MarsBar and DBDeUG: New insights into this enigmatic koala (*Phascolarctos cinereus*) pathogen](https://doi.org/10.3390/pathogens10121543)
