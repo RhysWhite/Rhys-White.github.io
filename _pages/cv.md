@@ -31,6 +31,12 @@ Kidsley AK, **White RT**, Beatson SA, Saputra S, Schembri MA, Gordon D, Johnson 
 &emsp;ST131 and ST1193. *Frontiers in Microbiology* 2020;11:1968<br/>
 &emsp;doi: [10.3389/fmicb.2020.01968](https://doi.org/10.3389/fmicb.2020.01968) 
 
+Omalekia L, Blackall PJ, Cuddihy T, **White RT**, Courtice JM, Turnia C, Forde BM,<br/>
+&emsp;Beatson SA. Phase variation in the glycosyltransferase genes of *Pasteurella*<br/>
+&emsp;*multocida* associated with outbreaks of fowl cholera on free-range layer farms.<br/>
+&emsp;*Microbial Genomics* 2022;8:000772
+&emsp;doi: [10.1099/mgen.0.000772](https://doi.org/10.1099/mgen.0.000772)
+
 **White RT**, Legione AR, Taylor-Brown A, Fernandez CM, Higgins DP, Timms P, Jelocnik M.<br/>
 &emsp;Completing the genome sequence of *Chlamydia pecorum* strains MC/MarsBar and<br/>
 &emsp;DBDeUG: New insights into this enigmatic koala (*Phascolarctos cinereus*) pathogen.<br/>
@@ -44,9 +50,7 @@ Kidsley AK, **White RT**, Beatson SA, Saputra S, Schembri MA, Gordon D, Johnson 
 
 ## Under Review
 
-Omalekia L, Blackall PJ, Cuddihy T, **White RT**, Courtice JM, Turnia C, Forde BM,<br/>
-&emsp;Beatson SA. Genomic analysis of *Pasteurella multocida* associated with outbreaks<br/>
-&emsp;of fowl cholera on free range layer farms. *Microbial Genomics* 2022
+-
 
 ## Preprints
 
