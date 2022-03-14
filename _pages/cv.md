@@ -48,10 +48,6 @@ Omalekia L, Blackall PJ, Cuddihy T, **White RT**, Courtice JM, Turnia C, Forde B
 &emsp;2021;42:104-110<br/>
 &emsp;doi: [10.1071/MA21031](https://doi.org/10.1071/MA21031)
 
-## Under Review
-
--
-
 ## Preprints
 
 Ashcroft MM, Forde BM, Phan MD, Peters KM, Henderson A, Hancock SJ, Roberts LW,<br/>
