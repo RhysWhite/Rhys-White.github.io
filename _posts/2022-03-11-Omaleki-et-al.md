@@ -9,7 +9,7 @@ tags:
   - Phase variation
 ---
 
-In poultry, _P. multocida_ causes fowl cholera which leads to acute & fatal septicaemia with significant economic loss on the poultry industry. In Australia, gene-centric molecular studies are valuable in studying the epidemiology of outbreaks and guiding autogenous vaccination programmes. But these techniques don’t provide the resolution for insight into the LPS structure of strains - enter whole-genome sequencing.
+In poultry, _P. multocida_ causes fowl cholera which leads to acute and fatal septicaemia with significant economic loss on the poultry industry. In Australia, gene-centric molecular studies are valuable in studying the epidemiology of outbreaks and guiding autogenous vaccination programmes. But these techniques do not provide the resolution for insight into the LPS structure of strains - enter whole-genome sequencing.
 
 Abstract
 ======
