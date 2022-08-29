@@ -34,7 +34,7 @@ Kidsley AK, **White RT**, Beatson SA, Saputra S, Schembri MA, Gordon D, Johnson 
 Omalekia L, Blackall PJ, Cuddihy T, **White RT**, Courtice JM, Turnia C, Forde BM,<br/>
 &emsp;Beatson SA. Phase variation in the glycosyltransferase genes of *Pasteurella*<br/>
 &emsp;*multocida* associated with outbreaks of fowl cholera on free-range layer farms.<br/>
-&emsp;*Microbial Genomics* 2022;8:000772
+&emsp;*Microbial Genomics* 2022;8:000772<br/>
 &emsp;doi: [10.1099/mgen.0.000772](https://doi.org/10.1099/mgen.0.000772)
 
 **White RT**, Legione AR, Taylor-Brown A, Fernandez CM, Higgins DP, Timms P, Jelocnik M.<br/>
@@ -92,7 +92,13 @@ Danau Girang Field Centre – Cardiff University
 
 ## Related Experience
 
-School of Chemistry and Molecular Biosciences, UQ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _July 2017 to present_<br/>
+The Institute of Environmental Science and Research, Porirua &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _August 2022 to present_<br/>
+__Scientist__
+
+Centre for Bioinnocation, USC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _April 2021 to August 2022_<br/>
+__Bioinformatician__
+
+School of Chemistry and Molecular Biosciences, UQ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _July 2017 to August 2022_<br/>
 __Casual Demonstrator__
 
 Public Health Wales NHS Trust, Cardiff &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _January 2017 to March 2017_<br/>
