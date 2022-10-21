@@ -37,6 +37,11 @@ Omalekia L, Blackall PJ, Cuddihy T, **White RT**, Courtice JM, Turnia C, Forde B
 &emsp;*Microbial Genomics* 2022;8:000772<br/>
 &emsp;doi: [10.1099/mgen.0.000772](https://doi.org/10.1099/mgen.0.000772)
 
+**White RT**, Anstey SI, Kasimov V, Jenkins C, Devlin J, El-Hage C, Pannekoek Y, Legione AR,<br/>
+&emsp;Jelocnik, M. One clone to rule them all: Culture-independent genomics of #Chlamydia psittaci#<br/>
+&emsp;from equine and avian hosts in Australia. Microbial Genomics 2022;8:000888<br/>
+&emsp;doi: [10.1099/mgen.0.000888](https://doi.org/10.1099/mgen.0.000888)
+
 **White RT**, Legione AR, Taylor-Brown A, Fernandez CM, Higgins DP, Timms P, Jelocnik M.<br/>
 &emsp;Completing the genome sequence of *Chlamydia pecorum* strains MC/MarsBar and<br/>
 &emsp;DBDeUG: New insights into this enigmatic koala (*Phascolarctos cinereus*) pathogen.<br/>
@@ -66,14 +71,11 @@ Ashcroft MM, Forde BM, Phan MD, Peters KM, Henderson A, Hancock SJ, Roberts LW,<
 
 ## Awards
 
-__Nanopore Bursary__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _2021_<br/>
+__Nanopore Bursary__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _2019, 2021, & 2022_<br/>
 Oxford Nanopore Technologies Ltd.
 
 __ASM Nancy Millis Student Award Finalist__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _2021_<br/>
 The Australian Society for Microbiology Queensland Branch
-
-__Nanopore Bursary__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _2019_<br/>
-Oxford Nanopore Technologies Ltd.
 
 __ASM National Meeting Registration Grant__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; _2018, 2019, & 2021_<br/>
 The Australian Society for Microbiology
