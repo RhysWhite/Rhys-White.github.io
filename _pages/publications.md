@@ -12,6 +12,12 @@ author_profile: true
   
 ## 2022
 
+### [One clone to rule them all: Culture-independent genomics of *Chlamydia psittaci* from equine and avian hosts in Australia](https://doi.org/10.1099/mgen.0.000888)
+
+&emsp; **White RT**, Anstey SI, Kasimov V, Jenkins C, Devlin J, El-Hage C, Pannekoek Y, Legione AR, Jelocnik, M. One clone to rule them all: Culture-independent genomics of *Chlamydia psittaci* from equine and avian hosts in Australia. *Microbial Genomics* 2022;8:000888 doi: [10.1099/mgen.0.000888](https://doi.org/10.1099/mgen.0.000888)
+
+<span class="__dimensions_badge_embed__" data-doi="10.1099/mgen.0.000888" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1099/mgen.0.000888" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 ### [Phase variation in the glycosyltransferase genes of *Pasteurella multocida* associated with outbreaks of fowl cholera on free-range layer farms](https://doi.org/10.1099/mgen.0.000772)
 
 &emsp; Omaleki L, Blackall PJ, Cuddihy T, **White RT**, Courtice JM, Turni C, Forde BM, Beatson SB. Phase variation in the glycosyltransferase genes of *Pasteurella multocida* associated with outbreaks of fowl cholera on free-range layer farms. *Microbial Genomics* 2022;8:000772 doi: [10.1099/mgen.0.000772](https://doi.org/10.1099/mgen.0.000772)
