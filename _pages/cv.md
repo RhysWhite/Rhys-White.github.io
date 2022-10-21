@@ -38,7 +38,7 @@ Omalekia L, Blackall PJ, Cuddihy T, **White RT**, Courtice JM, Turnia C, Forde B
 &emsp;doi: [10.1099/mgen.0.000772](https://doi.org/10.1099/mgen.0.000772)
 
 **White RT**, Anstey SI, Kasimov V, Jenkins C, Devlin J, El-Hage C, Pannekoek Y, Legione AR,<br/>
-&emsp;Jelocnik, M. One clone to rule them all: Culture-independent genomics of #Chlamydia psittaci#<br/>
+&emsp;Jelocnik, M. One clone to rule them all: Culture-independent genomics of *Chlamydia psittaci*<br/>
 &emsp;from equine and avian hosts in Australia. Microbial Genomics 2022;8:000888<br/>
 &emsp;doi: [10.1099/mgen.0.000888](https://doi.org/10.1099/mgen.0.000888)
 
