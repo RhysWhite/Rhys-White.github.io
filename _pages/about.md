@@ -14,7 +14,9 @@ I am currently a final year PhD candidate at [The University of Queensland](http
 Here you can find information on my research and current projects.
 
 E-mail: rhys.white@uq.edu.au
+
 <a rel="me" href="https://mstdn.science/@Rhys">Mastodon</a>: [@Rhys](https://mstdn.science/@Rhys)
+
 Twitter: [@RhysTWhite](https://twitter.com/RhysTWhite)
 
 <img src='/images/dna-background.jpeg'>
