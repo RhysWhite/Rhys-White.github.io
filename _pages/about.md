@@ -15,7 +15,7 @@ Here you can find information on my research and current projects.
 
 E-mail: rhys.white@uq.edu.au
 
-<a rel="me" href="https://mstdn.science/@Rhys">Mastodon</a>: mstdn.science/@Rhys
+Mastodon: <a rel="me" href="https://mstdn.science/@Rhys">mstdn.science/@Rhys</a>
 
 Twitter: [@RhysTWhite](https://twitter.com/RhysTWhite)
 
