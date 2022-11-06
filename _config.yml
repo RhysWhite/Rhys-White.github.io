@@ -99,6 +99,7 @@ author:
   github           : "RhysWhite"
   google_plus      :
   keybase          :
+  mastodon          : <a rel="me" href="https://mstdn.science/@Rhys">Mastodon</a>
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
@@ -322,4 +323,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-<a rel="me" href="https://mstdn.science/@Rhys">Mastodon</a>
