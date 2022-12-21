@@ -125,7 +125,7 @@ __Academic Service__
  
  
 __Professional Service__
-  * ASM Communications Ambassador, 2018 - *present*
+  * ASM Communications Ambassador, 2018 - 2022
   * ASM Queensland Branch Ex-officio, 2019 - 2021
   * COMBINE (student-run Australian organisation for computational biology & bioinformatics) Media & Communications officer, 2019
   * ASM Queensland Branch Student representative, 2018
