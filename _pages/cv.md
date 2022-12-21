@@ -97,10 +97,10 @@ Danau Girang Field Centre – Cardiff University
 
 ## Related Experience
 
-The Institute of Environmental Science and Research, Porirua &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _August 2022 to present_<br/>
+The Institute of Environmental Science and Research, Porirua &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _August 2022 to present_<br/>
 __Scientist__
 
-Centre for Bioinnovation, USC  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; _April 2021 to August 2022_<br/>
+Centre for Bioinnovation, USC  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _April 2021 to August 2022_<br/>
 __Bioinformatician__
 
 School of Chemistry and Molecular Biosciences, UQ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _July 2017 to August 2022_<br/>
