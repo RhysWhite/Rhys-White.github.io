@@ -10,6 +10,14 @@ author_profile: true
 
   You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=NwdWAb4AAAAJ&hl=en) page
   
+## 2023
+
+### [The first genomic insight into *Chlamydia psittaci* sequence type (ST)24 from a healthy captive psittacine host in Australia demonstrates evolutionary proximity with strains from psittacine, human, and equine hosts](https://doi.org/10.1016/j.vetmic.2023.109704)
+
+&emsp; **White RT**, Jelocnik M, Klukowski N, Haque MH, Sarker S. The first genomic insight into *Chlamydia psittaci* sequence type (ST)24 from a healthy captive psittacine host in Australia demonstrates evolutionary proximity with strains from psittacine, human, and equine hosts. *Veterinary Microbiology* 2023;109704 doi: [10.1016/j.vetmic.2023.109704](https://doi.org/10.1016/j.vetmic.2023.109704)
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.vetmic.2023.109704" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.vetmic.2023.109704" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 ## 2022
 
 ### [One clone to rule them all: Culture-independent genomics of *Chlamydia psittaci* from equine and avian hosts in Australia](https://doi.org/10.1099/mgen.0.000888)
