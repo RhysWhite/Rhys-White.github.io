@@ -18,7 +18,7 @@ _Chlamydia psittaci_ is a zoonotic pathogen that infects birds, humans, and othe
 Read the full publication here: [https://doi.org/10.1016/j.vetmic.2023.109704](https://doi.org/10.1016/j.vetmic.2023.109704)
 ------
 
-<a href="https://www.scimagojr.com/journalsearch.php?q=21100870279&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100870279" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=20882&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=20882" alt="SCImago Journal &amp; Country Rank"  /></a>
 
 Data availability
 ------
