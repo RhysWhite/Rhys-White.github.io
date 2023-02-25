@@ -45,7 +45,8 @@ Omalekia L, Blackall PJ, Cuddihy T, **White RT**, Courtice JM, Turnia C, Forde B
 **White RT**, Jelocnik M, Klukowski N, Haque MH, Sarker S. The first genomic insight into<br/>
 &emsp;*Chlamydia psittaci* sequence type (ST)24 from a healthy captive psittacine host in<br/>
 &emsp;Australia demonstrates evolutionary proximity with strains from psittacine, human, and<br/>
-&emsp;equine hosts. *Veterinary Microbiology* 2023;109704 doi: [10.1016/j.vetmic.2023.109704](https://doi.org/10.1016/j.vetmic.2023.109704)
+&emsp;equine hosts. *Veterinary Microbiology* 2023;109704<br/>
+&emsp;doi: [10.1016/j.vetmic.2023.109704](https://doi.org/10.1016/j.vetmic.2023.109704)
 
 **White RT**, Legione AR, Taylor-Brown A, Fernandez CM, Higgins DP, Timms P, Jelocnik M.<br/>
 &emsp;Completing the genome sequence of *Chlamydia pecorum* strains MC/MarsBar and<br/>
