@@ -12,6 +12,12 @@ author_profile: true
   
 ## 2023
 
+### [Molecular characterisation of the Australian and New Zealand livestock *Chlamydia pecorum* strains confirms novel but clonal ST23 in association with ovine foetal loss](https://doi.org/10.1016/j.vetmic.2023.109774)
+
+&emsp; Jelocnik M, **White RT**, Clune T, O’Connell J, Foxwell J, Hair S, Besier S, La T, Phillips N, Robbins A, Bogema S, Vaz PK, Legione AR, Jenkins C, Jacobson C. Molecular characterisation of the Australian and New Zealand livestock *Chlamydia pecorum* strains confirms novel but clonal ST23 in association with ovine foetal loss. *Veterinary Microbiology* 2023;109774 doi: [10.1016/j.vetmic.2023.109774](https://doi.org/10.1016/j.vetmic.2023.109774)
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.vetmic.2023.109774" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.vetmic.2023.109774" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 ### [The first genomic insight into *Chlamydia psittaci* sequence type (ST)24 from a healthy captive psittacine host in Australia demonstrates evolutionary proximity with strains from psittacine, human, and equine hosts](https://doi.org/10.1016/j.vetmic.2023.109704)
 
 &emsp; **White RT**, Jelocnik M, Klukowski N, Haque MH, Sarker S. The first genomic insight into *Chlamydia psittaci* sequence type (ST)24 from a healthy captive psittacine host in Australia demonstrates evolutionary proximity with strains from psittacine, human, and equine hosts. *Veterinary Microbiology* 2023;109704 doi: [10.1016/j.vetmic.2023.109704](https://doi.org/10.1016/j.vetmic.2023.109704)
