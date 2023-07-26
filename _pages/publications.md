@@ -24,6 +24,12 @@ author_profile: true
 
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.vetmic.2023.109704" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.vetmic.2023.109704" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
+### [Whole-genome sequencing of *Chlamydia psittaci* from Australasian avian hosts: A genomics approach to a pathogen that still ruffles feathers](https://doi.org/10.1099/mgen.0.001072)
+
+&emsp; **White RT**, Kasimov V, Foxwell J, Jenkins C, Gedye K, Pannekoek Y, Jelocnik M. Whole-genome sequencing of *Chlamydia psittaci* from Australasian avian hosts: A genomics approach to a pathogen that still ruffles feathers. *Microbial Genomics* 2023;9:001072 doi: [10.1099/mgen.0.001072](https://doi.org/10.1099/mgen.0.001072)
+
+<span class="__dimensions_badge_embed__" data-doi="10.1099/mgen.0.001072" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1099/mgen.0.001072" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 ## 2022
 
 ### [One clone to rule them all: Culture-independent genomics of *Chlamydia psittaci* from equine and avian hosts in Australia](https://doi.org/10.1099/mgen.0.000888)
