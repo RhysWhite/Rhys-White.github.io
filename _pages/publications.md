@@ -30,6 +30,12 @@ author_profile: true
 
 <span class="__dimensions_badge_embed__" data-doi="10.1099/mgen.0.001072" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1099/mgen.0.001072" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
+### [A discovery down under: decoding the draft genome sequence of *Pantoea stewartii* from Australia’s Critically Endangered western ground parrot/kyloring (*Pezoporus flaviventris*)](https://doi.org/10.1099/mgen.0.001101)
+
+&emsp; **White RT**, Taylor W, Klukowski N, Vaughan-Higgins R, Williams E, Petrovski S, Rose JJA, Sarker S. A discovery down under: decoding the draft genome sequence of *Pantoea stewartii* from Australia’s Critically Endangered western ground parrot/kyloring (*Pezoporus flaviventris*). *Microbial Genomics* 2023;9:001101 doi: [10.1099/mgen.0.001101](https://doi.org/10.1099/mgen.0.001101)
+
+<span class="__dimensions_badge_embed__" data-doi="10.1099/mgen.0.001101" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1099/mgen.0.001101" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 ## 2022
 
 ### [One clone to rule them all: Culture-independent genomics of *Chlamydia psittaci* from equine and avian hosts in Australia](https://doi.org/10.1099/mgen.0.000888)
