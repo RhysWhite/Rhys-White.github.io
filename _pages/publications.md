@@ -18,6 +18,13 @@ author_profile: true
 
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.vetmic.2023.109774" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.vetmic.2023.109774" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
+
+### [Draft genomes of novel avian *Chlamydia abortus* strains from Australian Torresian crows (*Corvus orru*) shed light on possible reservoir hosts and evolutionary pathways](https://doi.org/10.1099/mgen.0.001134)
+
+&emsp; Kasimov V, **White RT**, Jelocnik M. Draft genomes of novel avian *Chlamydia abortus* strains from Australian Torresian crows (*Corvus orru*) shed light on possible reservoir hosts and evolutionary pathways. *Microbial Genomics* 2023;9:001134 doi: [10.1099/mgen.0.001134](https://doi.org/10.1099/mgen.0.001134)
+
+<span class="__dimensions_badge_embed__" data-doi="10.1099/mgen.0.001134" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1099/mgen.0.001134" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 ### [The first genomic insight into *Chlamydia psittaci* sequence type (ST)24 from a healthy captive psittacine host in Australia demonstrates evolutionary proximity with strains from psittacine, human, and equine hosts](https://doi.org/10.1016/j.vetmic.2023.109704)
 
 &emsp; **White RT**, Jelocnik M, Klukowski N, Haque MH, Sarker S. The first genomic insight into *Chlamydia psittaci* sequence type (ST)24 from a healthy captive psittacine host in Australia demonstrates evolutionary proximity with strains from psittacine, human, and equine hosts. *Veterinary Microbiology* 2023;109704 doi: [10.1016/j.vetmic.2023.109704](https://doi.org/10.1016/j.vetmic.2023.109704)
