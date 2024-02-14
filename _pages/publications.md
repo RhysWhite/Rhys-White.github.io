@@ -18,6 +18,23 @@ author_profile: true
 
 
 ## 2023
+### [Draft genomes of novel avian *Chlamydia abortus* strains from Australian Torresian crows (*Corvus orru*) shed light on possible reservoir hosts and evolutionary pathways](https://doi.org/10.1099/mgen.0.001134)
+
+&emsp; Kasimov V, **White RT**, Jelocnik M. Draft genomes of novel avian *Chlamydia abortus* strains from Australian Torresian crows (*Corvus orru*) shed light on possible reservoir hosts and evolutionary pathways. *Microbial Genomics* 2023;9:001134 doi: [10.1099/mgen.0.001134](https://doi.org/10.1099/mgen.0.001134)
+
+<span class="__dimensions_badge_embed__" data-doi="10.1099/mgen.0.001134" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1099/mgen.0.001134" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+### [A discovery down under: decoding the draft genome sequence of *Pantoea stewartii* from Australia’s Critically Endangered western ground parrot/kyloring (*Pezoporus flaviventris*)](https://doi.org/10.1099/mgen.0.001101)
+
+&emsp; **White RT**, Taylor W, Klukowski N, Vaughan-Higgins R, Williams E, Petrovski S, Rose JJA, Sarker S. A discovery down under: decoding the draft genome sequence of *Pantoea stewartii* from Australia’s Critically Endangered western ground parrot/kyloring (*Pezoporus flaviventris*). *Microbial Genomics* 2023;9:001101 doi: [10.1099/mgen.0.001101](https://doi.org/10.1099/mgen.0.001101)
+
+<span class="__dimensions_badge_embed__" data-doi="10.1099/mgen.0.001101" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1099/mgen.0.001101" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+### [Whole-genome sequencing of *Chlamydia psittaci* from Australasian avian hosts: A genomics approach to a pathogen that still ruffles feathers](https://doi.org/10.1099/mgen.0.001072)
+
+&emsp; **White RT**, Kasimov V, Foxwell J, Jenkins C, Gedye K, Pannekoek Y, Jelocnik M. Whole-genome sequencing of *Chlamydia psittaci* from Australasian avian hosts: A genomics approach to a pathogen that still ruffles feathers. *Microbial Genomics* 2023;9:001072 doi: [10.1099/mgen.0.001072](https://doi.org/10.1099/mgen.0.001072)
+
+<span class="__dimensions_badge_embed__" data-doi="10.1099/mgen.0.001072" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1099/mgen.0.001072" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 ### [Molecular characterisation of the Australian and New Zealand livestock *Chlamydia pecorum* strains confirms novel but clonal ST23 in association with ovine foetal loss](https://doi.org/10.1016/j.vetmic.2023.109774)
 
@@ -26,29 +43,12 @@ author_profile: true
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.vetmic.2023.109774" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.vetmic.2023.109774" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 
-### [Draft genomes of novel avian *Chlamydia abortus* strains from Australian Torresian crows (*Corvus orru*) shed light on possible reservoir hosts and evolutionary pathways](https://doi.org/10.1099/mgen.0.001134)
-
-&emsp; Kasimov V, **White RT**, Jelocnik M. Draft genomes of novel avian *Chlamydia abortus* strains from Australian Torresian crows (*Corvus orru*) shed light on possible reservoir hosts and evolutionary pathways. *Microbial Genomics* 2023;9:001134 doi: [10.1099/mgen.0.001134](https://doi.org/10.1099/mgen.0.001134)
-
-<span class="__dimensions_badge_embed__" data-doi="10.1099/mgen.0.001134" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1099/mgen.0.001134" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 ### [The first genomic insight into *Chlamydia psittaci* sequence type (ST)24 from a healthy captive psittacine host in Australia demonstrates evolutionary proximity with strains from psittacine, human, and equine hosts](https://doi.org/10.1016/j.vetmic.2023.109704)
 
 &emsp; **White RT**, Jelocnik M, Klukowski N, Haque MH, Sarker S. The first genomic insight into *Chlamydia psittaci* sequence type (ST)24 from a healthy captive psittacine host in Australia demonstrates evolutionary proximity with strains from psittacine, human, and equine hosts. *Veterinary Microbiology* 2023;109704 doi: [10.1016/j.vetmic.2023.109704](https://doi.org/10.1016/j.vetmic.2023.109704)
 
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.vetmic.2023.109704" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.vetmic.2023.109704" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-### [Whole-genome sequencing of *Chlamydia psittaci* from Australasian avian hosts: A genomics approach to a pathogen that still ruffles feathers](https://doi.org/10.1099/mgen.0.001072)
-
-&emsp; **White RT**, Kasimov V, Foxwell J, Jenkins C, Gedye K, Pannekoek Y, Jelocnik M. Whole-genome sequencing of *Chlamydia psittaci* from Australasian avian hosts: A genomics approach to a pathogen that still ruffles feathers. *Microbial Genomics* 2023;9:001072 doi: [10.1099/mgen.0.001072](https://doi.org/10.1099/mgen.0.001072)
-
-<span class="__dimensions_badge_embed__" data-doi="10.1099/mgen.0.001072" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1099/mgen.0.001072" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-### [A discovery down under: decoding the draft genome sequence of *Pantoea stewartii* from Australia’s Critically Endangered western ground parrot/kyloring (*Pezoporus flaviventris*)](https://doi.org/10.1099/mgen.0.001101)
-
-&emsp; **White RT**, Taylor W, Klukowski N, Vaughan-Higgins R, Williams E, Petrovski S, Rose JJA, Sarker S. A discovery down under: decoding the draft genome sequence of *Pantoea stewartii* from Australia’s Critically Endangered western ground parrot/kyloring (*Pezoporus flaviventris*). *Microbial Genomics* 2023;9:001101 doi: [10.1099/mgen.0.001101](https://doi.org/10.1099/mgen.0.001101)
-
-<span class="__dimensions_badge_embed__" data-doi="10.1099/mgen.0.001101" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1099/mgen.0.001101" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 ## 2022
 
