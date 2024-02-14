@@ -10,6 +10,13 @@ author_profile: true
 
   You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=NwdWAb4AAAAJ&hl=en) page
   
+## 2024
+### [Genomic epidemiology reveals geographical clustering of multidrug-resistant *Escherichia coli* ST131 associated with bacteraemia in Wales](https://doi.org/10.1038/s41467-024-45608-1)
+&emsp; **White RT**, Bull MJ, Barker CR, Arnott JM, Wootton M, Jones LS, Howe RA, Morgan M, Ashcroft MM, Forde BM, Connor TR, Beatson SA. Genomic epidemiology reveals geographical clustering of multidrug-resistant *Escherichia coli* ST131 associated with bacteraemia in Wales. *Nature Communications*. 2024;15:1371 doi: [10.1038/s41467-024-45608-1](https://doi.org/10.1038/s41467-024-45608-1)
+
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-024-45608-1" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-024-45608-1" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+
 ## 2023
 
 ### [Molecular characterisation of the Australian and New Zealand livestock *Chlamydia pecorum* strains confirms novel but clonal ST23 in association with ovine foetal loss](https://doi.org/10.1016/j.vetmic.2023.109774)
@@ -71,11 +78,6 @@ author_profile: true
 
 <span class="__dimensions_badge_embed__" data-doi="10.1071/MA21031" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1071/MA21031" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-### [Genomic epidemiology reveals geographical clustering of multidrug-resistant *Escherichia coli* sequence type (ST)131 associated with bacteraemia in Wales, United Kingdom](https://doi.org/10.1101/2021.05.21.21257487)
-
-&emsp; **White RT**, Bull MJ, Barker CR, Arnott JM, Wootton M, Jones LS, Howe RA, Morgan M, Ashcroft MM, Forde BM, Connor TR, Beatson SA. Genomic epidemiology reveals geographical clustering of multidrug-resistant *Escherichia coli* sequence type (ST)131 associated with bacteraemia in Wales, United Kingdom. medRxiv:21257487v1 [Preprint]. 2021. Available from: https://www.medrxiv.org/content/10.1101/2021.05.21.21257487v1 doi: [10.1101/2021.05.21.21257487](https://doi.org/10.1101/2021.05.21.21257487)
-
-<span class="__dimensions_badge_embed__" data-doi="10.1101/2021.05.21.21257487" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2021.05.21.21257487" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 ## 2020
 
